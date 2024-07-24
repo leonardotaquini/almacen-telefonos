@@ -1,0 +1,1524 @@
+{
+    "productos":[
+     {
+        "producto": "Split",
+        "stock":[
+            {
+                "producto": "MIDEA- 3000 FRIGORIAS",
+                "precio_dolar": 310,
+                "Column3": 2309500,
+                "Column4": 461900
+               },
+               {
+                "producto": "AIRWAY - 3000 FRIGORIAS",
+                "precio_dolar": 260,
+                "Column3": 1937000,
+                "Column4": 387400
+               },
+               {
+                "producto": "BRISA - 3000 FRIGORIAS",
+                "precio_dolar": 265,
+                "Column3": 1974250,
+                "Column4": 394850
+               },
+               {
+                "producto": "TOKYO - 4500 FRIGORIAS",
+                "precio_dolar": 460,
+                "Column3": 3427000,
+                "Column4": 685400
+               }
+        ]
+     },
+     
+     {
+      "producto": "Whisky",
+      "stock":[
+        {
+            "producto": "Johnnie Walker Black Label 1 Litro",
+            "precio_dolar": 25,
+            "Column3": 187500,
+            "Column4": 37500
+           },
+           {
+            "producto": "Johnnie Walker RED Label 1 Litro",
+            "precio_dolar": 15,
+            "Column3": 112500,
+            "Column4": 22500
+           },
+           {
+            "producto": "Johnnie Walker Double Black 1 Litro",
+            "precio_dolar": 30,
+            "Column3": 225000,
+            "Column4": 45000
+           },
+           {
+            "producto": "Johnnie Walker Gold Label 750 ML",
+            "precio_dolar": 42,
+            "Column3": 315000,
+            "Column4": 63000
+           },
+           {
+            "producto": "Johnnie Walker Gold Label 750 ML \"18 AÑOS\"",
+            "precio_dolar": 80,
+            "Column3": 600000,
+            "Column4": 120000
+           },
+           {
+            "producto": "Johnnie Walker GREEN  750 ML",
+            "precio_dolar": 55,
+            "Column3": 412500,
+            "Column4": "82.500\n195.000\n0"
+           },
+           {
+            "producto": "Whisky Johnnie Walker Blue Label 750ML",
+            "precio_dolar": 130,
+            "Column3": 975000
+           }
+      ]
+     },
+
+     {
+      "producto": "Termos",
+      "stock":[
+        {
+            "producto": "TERMO 940 ML \". ROJO. AZUL. \"",
+            "precio_dolar": 51,
+            "Column3": 380000,
+            "Column4": 76000
+           },
+           {
+            "producto": "TERMO 940 ML ROSADO STOCK LIMITADO...",
+            "precio_dolar": 57,
+            "Column3": 420000,
+            "Column4": 84000
+           },
+           {
+            "producto": "TERMO 1,4 L \"ROJO. AZUL. NEGRO. CAMUFLADO. VERDE - ROSADO \"",
+            "precio_dolar": 57,
+            "Column3": 425000,
+            "Column4": 85000
+           },
+           {
+            "producto": "TERMO MATE SYSTEM 1,2 L. NEGRO - DORADO \"STOCK LIMITADO\"",
+            "precio_dolar": 65,
+            "Column3": 480000,
+            "Column4": 96000
+           },
+           {
+            "producto": "TERMO ADVENTURE 1,3 LITROS \"BLANCO - NEGRO - BORDO\"",
+            "precio_dolar": 47,
+            "Column3": 350000,
+            "Column4": 70000
+           },
+           {
+            "producto": "TAZA STANLEY \"BLANCO. DORADO. NEGRO. VERDE Y BORDO\"",
+            "precio_dolar": 30,
+            "Column3": 220000,
+            "Column4": 44000
+           },
+           {
+            "producto": "FLIP STRAW KIDS \"CELESTE-CORAL-GRIS\"",
+            "precio_dolar": 30,
+            "Column3": 220000,
+            "Column4": 44000
+           },
+           {
+            "producto": "FLIP TUMBLER 880 ML AMARILLO AZUL MORADO CREMA VERDE  BLANCO NEGRO",
+            "precio_dolar": 39,
+            "Column3": 290000,
+            "Column4": 58000
+           },
+           {
+            "producto": "FLIP STRAW BOTTLE 650 ML - NEGRO  - BLANCO",
+            "precio_dolar": 34,
+            "Column3": 255000,
+            "Column4": 51000
+           },
+           {
+            "producto": "TRAVEL TUMBLER 600 ML CON PAJITA \"NEGRO. CREMA. ROSA. VERDE. CELESTE. BLANCO\"",
+            "precio_dolar": 32,
+            "Column3": 235000,
+            "Column4": 47000
+           },
+           {
+            "producto": "TRAVEL QUENCHER 887 ML CELESTE CON BLANCO - VERDE CON BLANCO",
+            "precio_dolar": 47,
+            "Column3": 350000,
+            "Column4": 70000
+           },
+           {
+            "producto": "TRAVEL QUENCHER 1,2 LITROS \" AZUL. MARRON. MOSTAZA.\"",
+            "precio_dolar": 53,
+            "Column3": 390000,
+            "Column4": 78000
+           },
+           {
+            "producto": "TRAVEL QUENCHER 1.2 LITROS ROSADO.  CREMA",
+            "precio_dolar": 59,
+            "Column3": 435000,
+            "Column4": 87000
+           },
+           {
+            "producto": "MATERO  STANLEY \"NEGRO. BLANCO. AZUL. ROJO. . ROSADO - VERDE - DORADO \"",
+            "precio_dolar": 27,
+            "Column3": 200000,
+            "Column4": 40000
+           },
+           {
+            "producto": "VASO CERVECERO CON TAPA ABRIDOR \"AZUL NEGRO BLANCO VERDE BORDO CAMUFLADO ROSADO",
+            "precio_dolar": 27,
+            "Column3": 200000,
+            "Column4": 40000
+           },
+           {
+            "producto": "VASO CERVECERO SIN TAPA \"CORAL. AZUL. NEGRO. BLANCO. VERDE. NARANJA\"",
+            "precio_dolar": 22,
+            "Column3": 160000,
+            "Column4": 32000
+           },
+           {
+            "producto": "VASO CERVECERO SIN TAPA X 2 \"EDICION ARGENTINA\"",
+            "precio_dolar": 35,
+            "Column3": 160000,
+            "Column4": 32000
+           },
+           {
+            "producto": "VASO CHOPERA 700 ML \"VERDE. NEGRO. BLANCO\"",
+            "precio_dolar": 34,
+            "Column3": 250000,
+            "Column4": 50000
+           },
+           {
+            "producto": "VASO EVERY DAY \"VERDE. AZUL. NEGRO\"",
+            "precio_dolar": 20,
+            "Column3": 150000,
+            "Column4": 30000
+           },
+           {
+            "producto": "GALON FLIP STRAW 1,89 LITROS \"AZUL Y BLANCO\"",
+            "precio_dolar": 53,
+            "Column3": 390000,
+            "Column4": 78000
+           },
+           {
+            "producto": "GALON FLIP STRAW 1,2 LITROS \"BLANCO ..VERDE.. AZUL\"",
+            "precio_dolar": 45,
+            "Column3": 330000,
+            "Column4": 66000
+           },
+           {
+            "producto": "BOMBILA \"NEGRO Y VERDE\"",
+            "precio_dolar": 17,
+            "Column3": 125000,
+            "Column4": 25000
+           },
+           {
+            "producto": "BOMBILLA SPRING CON RESORTE",
+            "precio_dolar": "-",
+            "Column3": "-",
+            "Column4": 0
+           },
+           {
+            "producto": "JARRA STANLEY \"VERDE - BLANCO - ROSADO",
+            "precio_dolar": 65,
+            "Column3": 480000,
+            "Column4": 96000
+           },
+           {
+            "producto": "FLIP GO BOTTLE 700 ML NEGRO Y BLANCO",
+            "precio_dolar": 35,
+            "Column3": 258000,
+            "Column4": 51600
+           },
+           {
+            "producto": "FLIP GO BOTTLE 1,06  LITROS NEGRO Y BLANCO",
+            "precio_dolar": 41,
+            "Column3": 300000,
+            "Column4": 60000
+           },
+           {
+            "producto": "TERMO MATE SYSTEM 800 ML \"DORADO \"",
+            "precio_dolar": 59,
+            "Column3": 435000,
+            "Column4": 87000
+           },
+           {
+            "producto": "CONSERVADORA STANLEY 6,6 LITROS .. BLANCOO",
+            "precio_dolar": 80,
+            "Column3": 590000,
+            "Column4": 118000
+           },
+           {
+            "producto": "CONSERVADORA STANLEY 15,1 LITROS .. BLANCO",
+            "precio_dolar": 99,
+            "Column3": 730000,
+            "Column4": 146000
+           }
+      ]
+     },
+     
+     {
+      "producto": "IPHONE SELLADOS",
+      "stock":[
+        {
+            "producto": "IPHONE 11 64 GB NEGRO",
+            "precio_dolar": 345,
+            "Column3": 2587500,
+            "Column4": 517500
+           },
+           {
+            "producto": "IPHONE 11 64 GB BLANCO",
+            "precio_dolar": 350,
+            "Column3": 2625000,
+            "Column4": 525000
+           },
+           {
+            "producto": "IPHONE 11 128 GB - NEGRO",
+            "precio_dolar": 380,
+            "Column3": 2850000,
+            "Column4": 570000
+           },
+           {
+            "producto": "IPHONE 11 128 GB - BLANCO",
+            "precio_dolar": 385,
+            "Column3": 2887500,
+            "Column4": 577500
+           },
+           {
+            "producto": "IPHONE 13 128 GB AZUL",
+            "precio_dolar": 555,
+            "Column3": 4162500,
+            "Column4": 832500
+           },
+           {
+            "producto": "IPHONE 13 128 GB VERDE",
+            "precio_dolar": 555,
+            "Column3": 4162500,
+            "Column4": 832500
+           },
+           {
+            "producto": "IPHONE 13 128 GB ROSADO",
+            "precio_dolar": 560,
+            "Column3": 4200000,
+            "Column4": 840000
+           },
+           {
+            "producto": "IPHONE 13 128 GB BLANCO",
+            "precio_dolar": 560,
+            "Column3": 4200000,
+            "Column4": 840000
+           },
+           {
+            "producto": "IPHONE 13 128 GB NEGRO",
+            "precio_dolar": 555,
+            "Column3": 4162500,
+            "Column4": 832500
+           },
+           {
+            "producto": "IPHONE 13 256 GB",
+            "precio_dolar": 695,
+            "Column3": 5212500,
+            "Column4": 1042500
+           },
+           {
+            "producto": "IPHONE 14 128 GB BLANCO.",
+            "precio_dolar": 660,
+            "Column3": 4950000,
+            "Column4": 990000
+           },
+           {
+            "producto": "IPHONE 14 128 GB NEGRO",
+            "precio_dolar": 660,
+            "Column3": 4950000,
+            "Column4": 990000
+           },
+           {
+            "producto": "IPHONE 14 128 GB LILA",
+            "precio_dolar": 655,
+            "Column3": 4912500,
+            "Column4": 982500
+           },
+           {
+            "producto": "IPHONE 14 128 GB  AZUL",
+            "precio_dolar": 655,
+            "Column3": 4912500,
+            "Column4": 982500
+           },
+           {
+            "producto": "IPHONE 14 256 GB",
+            "precio_dolar": 855,
+            "Column3": 6412500,
+            "Column4": 1282500
+           },
+           {
+            "producto": "IPHONE 15 128 GB ROSADO",
+            "precio_dolar": 730,
+            "Column3": 5475000,
+            "Column4": 1095000
+           },
+           {
+            "producto": "IPHONE 15 128 GB NEGRO",
+            "precio_dolar": 730,
+            "Column3": 5475000,
+            "Column4": 1095000
+           },
+           {
+            "producto": "IPHONE 15 128 GB AZUL",
+            "precio_dolar": 730,
+            "Column3": 5475000,
+            "Column4": 1095000
+           },
+           {
+            "producto": "IPHONE 15 128 GB VERDE",
+            "precio_dolar": 730,
+            "Column3": 5475000,
+            "Column4": 1095000
+           },
+           {
+            "producto": "IPHONE 15 256 GB",
+            "precio_dolar": 870,
+            "Column3": 6525000,
+            "Column4": 1305000
+           },
+           {
+            "producto": "IPHONE 15 PRO 128 GB.. BLANCO",
+            "precio_dolar": 920,
+            "Column3": 6900000,
+            "Column4": 1380000
+           },
+           {
+            "producto": "IPHONE 15 PRO 128 GB NEGRO",
+            "precio_dolar": 920,
+            "Column3": 6900000,
+            "Column4": 1380000
+           },
+           {
+            "producto": "IPHONE 15 PRO 128 GB AZUL",
+            "precio_dolar": 920,
+            "Column3": 6900000,
+            "Column4": 1380000
+           },
+           {
+            "producto": "IPHONE 15 PRO 128 GB NATURAL",
+            "precio_dolar": 920,
+            "Column3": 6900000,
+            "Column4": 1380000
+           },
+           {
+            "producto": "IPHONE 15 PRO 256 GB NATURAL TITANIUM",
+            "precio_dolar": 1015,
+            "Column3": 7612500,
+            "Column4": 1522500
+           },
+           {
+            "producto": "IPHONE 15 PRO 256 GB BLANCO",
+            "precio_dolar": 1015,
+            "Column3": 7612500,
+            "Column4": 1522500
+           },
+           {
+            "producto": "IPHONE 15 PRO 256 GB NEGRO",
+            "precio_dolar": 1015,
+            "Column3": 7612500,
+            "Column4": 1522500
+           },
+           {
+            "producto": "IPHONE 15 PRO 256 GB AZUL",
+            "precio_dolar": 1015,
+            "Column3": 7612500,
+            "Column4": 1522500
+           },
+           {
+            "producto": "IPHONE 15 PRO MAX 256 GB AZUL",
+            "precio_dolar": 1090,
+            "Column3": 8175000,
+            "Column4": 1635000
+           },
+           {
+            "producto": "IPHONE 15 PRO MAX 256 GB NEGRO",
+            "precio_dolar": 1090,
+            "Column3": 8175000,
+            "Column4": 1635000
+           },
+           {
+            "producto": "IPHONE 15 PRO MAX 256 GB BLANCO",
+            "precio_dolar": 1090,
+            "Column3": 8175000,
+            "Column4": 1635000
+           },
+           {
+            "producto": "IPHONE 15 PRO MAX 256 GB NATURAL TITANIUM",
+            "precio_dolar": 1090,
+            "Column3": 8175000,
+            "Column4": 1635000
+           },
+           {
+            "producto": "IPHONE 15 PRO MAX 512 GB",
+            "precio_dolar": 1350,
+            "Column3": 10125000,
+            "Column4": 2025000
+           },
+           {
+            "producto": "CARGADOR IPHONE ORIGINAL 20W",
+            "precio_dolar": 23,
+            "Column3": 172500,
+            "Column4": 34500
+           },
+           {
+            "producto": "CABLE PARA IPHONE ORIGINAL",
+            "precio_dolar": 23,
+            "Column3": 172500,
+            "Column4": 34500
+           },
+           {
+            "producto": "CARGADOR TRIPLE A IPHONE",
+            "precio_dolar": 7,
+            "Column3": 52500,
+            "Column4": 10500
+           },
+           {
+            "producto": "CABLE PARA IPHONE 15. TIPO C A C",
+            "precio_dolar": 24,
+            "Column3": 180000,
+            "Column4": 36000
+           }
+      ]
+     },
+     
+     {
+      "producto": "SAMSUNG",
+    "stock":[
+        {
+            "producto": "A04E 32  GB",
+            "precio_dolar": 85,
+            "Column3": 637500,
+            "Column4": 127500
+           },
+           {
+            "producto": "A05 4 64  GB",
+            "precio_dolar": 97,
+            "Column3": 727500,
+            "Column4": 145500
+           },
+           {
+            "producto": "A05 4 128  GB",
+            "precio_dolar": 105,
+            "Column3": 787500,
+            "Column4": 157500
+           },
+           {
+            "producto": "A05S 4 128  GB",
+            "precio_dolar": 120,
+            "Column3": 900000,
+            "Column4": 180000
+           },
+      
+           {
+            "producto": "A15. 4G.  4 128  GB",
+            "precio_dolar": 112,
+            "Column3": 840000,
+            "Column4": 168000
+           },
+           {
+            "producto": "A15. 4G.  6 128  GB",
+            "precio_dolar": 116,
+            "Column3": 870000,
+            "Column4": 174000
+           },
+           {
+            "producto": "A15. 5G. 6 128  GB",
+            "precio_dolar": 127,
+            "Column3": 952500,
+            "Column4": 190500
+           },
+           {
+            "producto": "A15. 5G. 8 256  GB",
+            "precio_dolar": 165,
+            "Column3": 1237500,
+            "Column4": 247500
+           },
+           {
+            "producto": "A25 5G  6 128 GB",
+            "precio_dolar": 175,
+            "Column3": 1312500,
+            "Column4": 262500
+           },
+           {
+            "producto": "A25 5G 8 256  GB",
+            "precio_dolar": 195,
+            "Column3": 1462500,
+            "Column4": 292500
+           },
+           {
+            "producto": "A34 5G..  6\/128  GB",
+            "precio_dolar": 230,
+            "Column3": 1725000,
+            "Column4": 345000
+           },
+           {
+            "producto": "A35 5G 6 128  GB",
+            "precio_dolar": 250,
+            "Column3": 1875000,
+            "Column4": 375000
+           },
+           {
+            "producto": "A35 5G 8 128 GB",
+            "precio_dolar": 260,
+            "Column3": 1950000,
+            "Column4": 390000
+           },
+           {
+            "producto": "A35 5G 8 256 GB",
+            "precio_dolar": 300,
+            "Column3": 2250000,
+            "Column4": 450000
+           },
+           {
+            "producto": "A54 5G 8 128  GB",
+            "precio_dolar": 300,
+            "Column3": 2250000,
+            "Column4": 450000
+           },
+           {
+            "producto": "A54 5G 8 256  GB",
+            "precio_dolar": 345,
+            "Column3": 2587500,
+            "Column4": 517500
+           },
+           {
+            "producto": "A55 5G 8 128 GB",
+            "precio_dolar": 315,
+            "Column3": 2362500,
+            "Column4": 472500
+           },
+           {
+            "producto": "A55 5G 8 256 GB",
+            "precio_dolar": 360,
+            "Column3": 2700000,
+            "Column4": 540000
+           },
+           {
+            "producto": "S23 FE 5G 8 - 128 GB",
+            "precio_dolar": 420,
+            "Column3": 3150000,
+            "Column4": 630000
+           },
+           {
+            "producto": "S23 FE 5G 8\/256 GB",
+            "precio_dolar": 465,
+            "Column3": 3487500,
+            "Column4": 697500
+           },
+           {
+            "producto": "S23 ULTRA 12 256  GB",
+            "precio_dolar": 835,
+            "Column3": 6262500,
+            "Column4": 1252500
+           },
+           {
+            "producto": "S24 128  GB",
+            "precio_dolar": 630,
+            "Column3": 4725000
+           },
+           {
+            "producto": "S24 256  GB",
+            "precio_dolar": 685,
+            "Column3": 5137500,
+            "Column4": 1027500
+           },
+           {
+            "producto": "S24 PLUS 256 GB",
+            "precio_dolar": 700,
+            "Column3": 5250000,
+            "Column4": 1050000
+           },
+           {
+            "producto": "S24 ULTRA 256 GB",
+            "precio_dolar": 980,
+            "Column3": 7350000,
+            "Column4": 1470000
+           },
+           {
+            "producto": "S24 ULTRA 512 GB",
+            "precio_dolar": 1100,
+            "Column3": 8250000,
+            "Column4": 1650000
+           },
+           {
+            "producto": "TABLET A7 LITE 8,7\" WIFI 64 GB",
+            "precio_dolar": 125,
+            "Column3": 937500,
+            "Column4": 187500
+           },
+           {
+            "producto": "TABLET Tab A SM-T307U 32GB 8.4\" 4G",
+            "precio_dolar": 105,
+            "Column3": 787500,
+            "Column4": 157500
+           },
+           {
+            "producto": "TABLET A8 10,5\" WIFI 64 GB",
+            "precio_dolar": 180,
+            "Column3": 1350000,
+            "Column4": 270000
+           },
+           {
+            "producto": "CARGADOR ORIGINAL SAMSUNG 25 W",
+            "precio_dolar": 20,
+            "Column3": 150000,
+            "Column4": 30000
+           },
+           {
+            "producto": "CARGADOR OIRGINAL SAMSUNG 15W",
+            "precio_dolar": 15,
+            "Column3": 112500,
+            "Column4": 22500
+           },
+           {
+            "producto": "CARGADOR ORIGINAL SAMSUNG 45W",
+            "precio_dolar": 37,
+            "Column3": 277500,
+            "Column4": 55500
+           }
+    ]
+     },
+
+     {
+      "producto": "MOTOROLA",
+      "stock":[
+        {
+            "producto": "MOTO E22i 32 gb",
+            "precio_dolar": 70,
+            "Column3": 525000,
+            "Column4": 105000
+           },
+           {
+            "producto": "MOTO E13  64  GB",
+            "precio_dolar": 73,
+            "Column3": 547500,
+            "Column4": 109500
+           },
+           {
+            "producto": "MOTO E13 8 128  GB",
+            "precio_dolar": 90,
+            "Column3": 675000,
+            "Column4": 135000
+           },
+           {
+            "producto": "MOTO E22 4 64 GB",
+            "precio_dolar": 81,
+            "Column3": 607500,
+            "Column4": 121500
+           },
+           {
+            "producto": "MOTO G04 4\/64  GB",
+            "precio_dolar": 85,
+            "Column3": 637500,
+            "Column4": 127500
+           },
+           {
+            "producto": "MOTO G04 8- 128  GB",
+            "precio_dolar": 97,
+            "Column3": 727500,
+            "Column4": 145500
+           },
+           {
+            "producto": "MOTO G13 4 128  GB",
+            "precio_dolar": 95,
+            "Column3": 712500,
+            "Column4": 142500
+           },
+           {
+            "producto": "MOTO G14 4 128 GB",
+            "precio_dolar": 100,
+            "Column3": 750000,
+            "Column4": 150000
+           },
+           {
+            "producto": "MOTO G23 4 128  GB",
+            "precio_dolar": 102,
+            "Column3": 765000,
+            "Column4": 153000
+           },
+           {
+            "producto": "MOTO G23 8 128 GB",
+            "precio_dolar": 112,
+            "Column3": 840000,
+            "Column4": 168000
+           },
+           {
+            "producto": "MOTO G24 8 128 GB",
+            "precio_dolar": 118,
+            "Column3": 885000,
+            "Column4": 177000
+           },
+      
+           {
+            "producto": "MOTO G14 8 256 GB",
+            "precio_dolar": 130,
+            "Column3": 975000,
+            "Column4": 195000
+           },
+           {
+            "producto": "MOTO G54 8 256  GB",
+            "precio_dolar": 157,
+            "Column3": 1177500,
+            "Column4": 235500
+           },
+           {
+            "producto": "MOTO G73 8 256  GB",
+            "precio_dolar": 165,
+            "Column3": 1237500,
+            "Column4": 247500
+           },
+           {
+            "producto": "MOTO G84 5G 8 256  GB",
+            "precio_dolar": 198,
+            "Column3": 1485000,
+            "Column4": 297000
+           }
+      ]
+     },
+  
+     {
+      "producto": "XIAOMI",
+      "stock":[
+        {
+          "producto": "REDMI A2 2 32  GB",
+          "precio_dolar": 70,
+          "Column3": 525000,
+          "Column4": 105000
+         },
+         {
+          "producto": "REDMI A2 3 64  GB",
+          "precio_dolar": 73,
+          "Column3": 547500,
+          "Column4": 109500
+         },
+         {
+          "producto": "REDMI A3 3 \/ 64 GB",
+          "precio_dolar": 77,
+          "Column3": 577500,
+          "Column4": 115500
+         },
+         {
+          "producto": "REDMI A3 4 \/ 128  GB",
+          "precio_dolar": 87,
+          "Column3": 652500,
+          "Column4": 130500
+         },
+         {
+          "producto": "REDMI A3X 4 \/ 128  GB",
+          "precio_dolar": 87,
+          "Column3": 652500,
+          "Column4": 130500
+         },
+         {
+          "producto": "REDMI 12C 3 64  GB",
+          "precio_dolar": 83,
+          "Column3": 622500,
+          "Column4": 124500
+         },
+         {
+          "producto": "REDMI 13C 4 128  GB  -",
+          "precio_dolar": 100,
+          "Column3": 750000,
+          "Column4": 150000
+         },
+         {
+          "producto": "REDMI 13C 4 256 GB",
+          "precio_dolar": 114,
+          "Column3": 855000,
+          "Column4": 171000
+         },
+         {
+          "producto": "REDMI 13C 6 128 GB",
+          "precio_dolar": 110,
+          "Column3": 825000,
+          "Column4": 165000
+         },
+         {
+          "producto": "REDMI 13C 8 256  GB",
+          "precio_dolar": 125,
+          "Column3": 937500,
+          "Column4": 187500
+         },
+         {
+          "producto": "POCO C65 6 128  GB",
+          "precio_dolar": 105,
+          "Column3": 787500,
+          "Column4": 157500
+         },
+         {
+          "producto": "POCO C65 8 256  GB",
+          "precio_dolar": 112,
+          "Column3": 840000,
+          "Column4": 168000
+         },
+         {
+          "producto": "NOTE 13 6 128 GB",
+          "precio_dolar": 140,
+          "Column3": 1050000,
+          "Column4": 210000
+         },
+         {
+          "producto": "NOTE 13 8 128 GB",
+          "precio_dolar": 148,
+          "Column3": 1110000,
+          "Column4": 222000
+         },
+         {
+          "producto": "NOTE 13 8 256 GB",
+          "precio_dolar": 160,
+          "Column3": 1200000,
+          "Column4": 240000
+         },
+         {
+          "producto": "NOTE 13 PRO 4G. 8 256 GB",
+          "precio_dolar": 215,
+          "Column3": 1612500,
+          "Column4": 322500
+         },
+         {
+          "producto": "NOTE 13 PRO 4G 12 512  GB",
+          "precio_dolar": 257,
+          "Column3": 1927500,
+          "Column4": 385500
+         },
+         {
+          "producto": "NOTE 13 PRO 5G. 8 256 GB",
+          "precio_dolar": 270,
+          "Column3": 2025000,
+          "Column4": 405000
+         },
+         {
+          "producto": "NOTE 13 PRO 5G 12 512  GB",
+          "precio_dolar": 305,
+          "Column3": 2287500,
+          "Column4": 457500
+         },
+         {
+          "producto": "NOTE 13 PRO PLUS 5G. 8 256 GB",
+          "precio_dolar": 316,
+          "Column3": 2370000,
+          "Column4": 474000
+         },
+         {
+          "producto": "NOTE 13 PRO PLUS 5G. 12 512 GB",
+          "precio_dolar": 370,
+          "Column3": 2775000,
+          "Column4": 555000
+         },
+         {
+          "producto": "POCO M6 PRO 8\/256 GB",
+          "precio_dolar": 175,
+          "Column3": 1312500,
+          "Column4": 262500
+         },
+         {
+          "producto": "POCO M6 PRO 12\/512 GB",
+          "precio_dolar": 215,
+          "Column3": 1612500,
+          "Column4": 322500
+         },
+         {
+          "producto": "POCO X6 PRO 5G 8 256  GB",
+          "precio_dolar": 270,
+          "Column3": 2025000,
+          "Column4": 405000
+         },
+         {
+          "producto": "POCO X6 PRO 5G. 12 512 GB",
+          "precio_dolar": 315,
+          "Column3": 2362500,
+          "Column4": 472500
+         },
+         {
+          "producto": "POCO F6 PRO 5G 12 512  GB",
+          "precio_dolar": 505,
+          "Column3": 3787500,
+          "Column4": 757500
+         },
+         {
+          "producto": "TABLET XIAOMI PAD SE 8 256  GB",
+          "precio_dolar": 200,
+          "Column3": 1500000,
+          "Column4": 300000
+         },
+         {
+          "producto": "CARGADOR XIAOMI AD201EU 20 W",
+          "precio_dolar": 12,
+          "Column3": 90000,
+          "Column4": 18000
+         },
+         {
+          "producto": "XIAOMI SOUND OUTDOOR",
+          "precio_dolar": 45,
+          "Column3": 337500
+         },
+         {
+          "producto": "XIAOMI SOUND POCKET",
+          "precio_dolar": 20,
+          "Column3": 150000
+         },
+    
+         {
+          "producto": "REDMI  SMART BAND 8 ACTIVE ROSADO Y NEGRO",
+          "precio_dolar": 28,
+          "Column3": 210000,
+          "Column4": 42000
+         },
+         {
+          "producto": "RELOJ XIOAMI REDMI WATCH 3 ACTIVE BLANCO Y NEGRO",
+          "precio_dolar": 37,
+          "Column3": 277500,
+          "Column4": 55500
+         },
+         {
+          "producto": "AURICULAR XIOAMI REDMI BUDS 4 LITE",
+          "precio_dolar": 19,
+          "Column3": 142500,
+          "Column4": 28500
+         },
+         {
+          "producto": "AURICULAR XIOAMI REDMI BUDS 5",
+          "precio_dolar": 33,
+          "Column3": 247500,
+          "Column4": 49500
+         },
+         {
+          "producto": "AURICULAR XIOAMI REDMI BUDS 5 PRO",
+          "precio_dolar": 56,
+          "Column3": 420000,
+          "Column4": 84000
+         },
+         {
+          "producto": "CARGADOR INALAMBRICO XIOAMI",
+          "precio_dolar": 17,
+          "Column3": 127500,
+          "Column4": 25500
+         },
+         {
+          "producto": "CABLE USD A TIPO XIOAMI ORIGINAL",
+          "precio_dolar": 6,
+          "Column3": 45000,
+          "Column4": 9000
+         },
+         {
+          "producto": "REALME - TECNO - INFINIX",
+          "Column3": "-",
+          "Column4": 0
+         },
+         {
+          "producto": "REALME NOTE 50 . 3 64 GB",
+          "precio_dolar": 78,
+          "Column3": 585000,
+          "Column4": 117000
+         },
+         {
+          "producto": "REALME  NOTE 50.  4 128 gb",
+          "precio_dolar": 90,
+          "Column3": 675000,
+          "Column4": 135000
+         },
+         {
+          "producto": "TECNO SPARK GO 3 64 GB",
+          "precio_dolar": 73,
+          "Column3": 547500,
+          "Column4": 109500
+         },
+         {
+          "producto": "TECNO SPARK 20C BG7 4 128 GB",
+          "precio_dolar": 80,
+          "Column3": 600000,
+          "Column4": 120000
+         },
+         {
+          "producto": "TECNO SPARK 20C BG7 4 256 GB",
+          "precio_dolar": 100,
+          "Column3": 750000,
+          "Column4": 150000
+         },
+         {
+          "producto": "TECNO SPARK 20 KJ5 8 256  GB",
+          "precio_dolar": 110,
+          "Column3": 825000,
+          "Column4": 165000
+         },
+         {
+          "producto": "TECNO SPARK 20 PRO + 8 256 GB",
+          "precio_dolar": 197,
+          "Column3": 1477500,
+          "Column4": 295500
+         },
+         {
+          "producto": "INFINIX HOT 40 PRO 8 256 GB",
+          "precio_dolar": 155,
+          "Column3": 1162500,
+          "Column4": 232500
+         },
+         {
+          "producto": "INFINIX HOT NOTE 40 PRO 8 256 GB",
+          "precio_dolar": 235,
+          "Column3": 1762500,
+          "Column4": 352500
+         }
+      ]
+     },
+     
+     {
+      "producto": "NOTEBOOK - IMPRESORAS",
+      "stock":[
+        {
+          "producto": "NOTEBOOK LENOVO IDEAPAD 1 82V60065USD INTEL CELERON 1,1 GHZ 4 GB 128 GB 14\"",
+          "precio_dolar": 0,
+          "Column3": "-",
+          "Column4": 0
+         },
+         {
+          "producto": "Notebook HP 250 G9 Intel Core i3 1.2GHz \/ Memória 8GB \/ SSD 256GB \/ 15.6\"",
+          "precio_dolar": 350,
+          "Column3": 2625000,
+          "Column4": 525000
+         },
+         {
+          "producto": "NOTEBOOO HP 15-DY2035TG I3-1125G4 8 256  GB 15,6\"",
+          "precio_dolar": 360,
+          "Column3": 2700000,
+          "Column4": 540000
+         },
+         {
+          "producto": "Notebook HP 15-DY2795WM Intel Core i5 2.4GHz \/ 8GB \/ SSD 256GB \/ 15.6\"",
+          "precio_dolar": 420,
+          "Column3": 3150000,
+          "Column4": 630000
+         },
+         {
+          "producto": "Notebook Acer Aspire 3 A315-58-733R. i7 2.8GHz \/ 16GB \/ SSD 512GB \/ 15.6\"",
+          "precio_dolar": 510,
+          "Column3": 3825000,
+          "Column4": 765000
+         },
+         {
+          "producto": "Notebook Asus M1603QA-R712512 AMD Ryzen 7 5800H\/ 12GB\/ 512GB SSD\/ 16.0\"",
+          "precio_dolar": 525,
+          "Column3": 3937500,
+          "Column4": 787500
+         },
+         {
+          "producto": "CARGADOR UNIVERSAL PARA NOTEBOOK MARCA MOX",
+          "precio_dolar": 20,
+          "Column3": 150000,
+          "Column4": 30000
+         },
+         {
+          "producto": "GABINETE CPU I5 3570 3.4 GHZ . 16 GB RAM 480 GB DISCO  TECLADO MOIUSE PARLANTES",
+          "precio_dolar": 200,
+          "Column3": 1500000,
+          "Column4": 300000
+         },
+         {
+          "producto": "IMPRESORA EPSON L1250",
+          "precio_dolar": 137,
+          "Column3": 1027500,
+          "Column4": 205500
+         },
+         {
+          "producto": "IMPRESORA EPSON L3210, 3 EN 1",
+          "precio_dolar": 195,
+          "Column3": 1462500,
+          "Column4": 292500
+         },
+         {
+          "producto": "IMPRESORA EPSON L3250, 3 EN 1",
+          "precio_dolar": 210,
+          "Column3": 1575000,
+          "Column4": 315000
+         },
+         {
+          "producto": "IMPRESORA EPSON L3560, 3 EN 1. CON DISPLAY",
+          "precio_dolar": 230,
+          "Column3": 1725000,
+          "Column4": 345000
+         },
+         {
+          "producto": "Monitor LG LED 22MP410-B Full HD 21.5\"",
+          "precio_dolar": 100,
+          "Column3": 750000,
+          "Column4": 150000
+         },
+         {
+          "producto": "DISCO EXTERNO MARCA SEAGATE 1 TB",
+          "precio_dolar": 55,
+          "Column3": 412500,
+          "Column4": 82500
+         },
+         {
+          "producto": "DISCO EXTERNO MARCA SEAGATE 2 TB",
+          "precio_dolar": 70,
+          "Column3": 525000,
+          "Column4": 105000
+         }
+      ]
+     },
+     
+     {
+      "producto": "JBL",
+      "stock":[
+        {
+          "producto": "PARTYBOX 1000",
+          "precio_dolar": 710,
+          "Column3": 5325000,
+          "Column4": 1065000
+         },
+         {
+          "producto": "PARYBOX THE GO 100 WATTS",
+          "precio_dolar": 225,
+          "Column3": 1687500,
+          "Column4": 337500
+         },
+         {
+          "producto": "PARTYBOX 110  160 WATTS",
+          "precio_dolar": 270,
+          "Column3": 2025000,
+          "Column4": 405000
+         },
+         {
+          "producto": "PARTYBOX 310 240 WATTS",
+          "precio_dolar": 460,
+          "Column3": 3450000,
+          "Column4": 690000
+         },
+         {
+          "producto": "PARTYBOX 710",
+          "precio_dolar": 485,
+          "Column3": 3637500,
+          "Column4": 727500
+         },
+         {
+          "producto": "PARTYBOX ENCORE ESSENTIAL 100 WATTS",
+          "precio_dolar": 230,
+          "Column3": 1725000,
+          "Column4": 345000
+         },
+         {
+          "producto": "JBL PartyBox Ultimate",
+          "precio_dolar": 1120,
+          "Column3": 8400000,
+          "Column4": 1680000
+         },
+         {
+          "producto": "JBL PartyBox Stage 320",
+          "precio_dolar": 450,
+          "Column3": 3375000,
+          "Column4": 675000
+         },
+         {
+          "producto": "JBL PartyBox Club 120",
+          "precio_dolar": 345,
+          "Column3": 2587500,
+          "Column4": 517500
+         },
+         {
+          "producto": "GO 3. AZUL. ROJO. NEGRO ,, GRIS",
+          "precio_dolar": 32,
+          "Column3": 240000,
+          "Column4": 48000
+         },
+         {
+          "producto": "GO 3 ROSADO",
+          "precio_dolar": 34,
+          "Column3": 255000,
+          "Column4": 51000
+         },
+         {
+          "producto": "GO 4 NEGRO - AZUL - ROJO",
+          "precio_dolar": 40,
+          "Column3": 300000,
+          "Column4": 60000
+         },
+         {
+          "producto": "CLIP 4 AZUL. VERDE. NEGRO - ROSADO",
+          "precio_dolar": 45,
+          "Column3": 337500,
+          "Column4": 67500
+         },
+         {
+          "producto": "FLIP 6.. ROJO.  BLANCO . NEGRO. AZUL",
+          "precio_dolar": 88,
+          "Column3": 660000,
+          "Column4": 132000
+         },
+         {
+          "producto": "CHARGE 5 AZUL - ROJO",
+          "precio_dolar": 117,
+          "Column3": 877500,
+          "Column4": 175500
+         },
+         {
+          "producto": "CHARGE 5  NEGRO -",
+          "precio_dolar": 120,
+          "Column3": 900000,
+          "Column4": 180000
+         },
+         {
+          "producto": "XTREME 3 NEGRO - AZUL  - CAMUFLADO",
+          "precio_dolar": 200,
+          "Column3": 1500000,
+          "Column4": 300000
+         },
+         {
+          "producto": "XTREME 4",
+          "precio_dolar": 305,
+          "Column3": 2287500,
+          "Column4": 457500
+         },
+         {
+          "producto": "BOOMBOX 3 NEGRO",
+          "precio_dolar": 320,
+          "Column3": 2400000,
+          "Column4": 480000
+         },
+         {
+          "producto": "BOOMBOX 3 CAMUFLADO",
+          "precio_dolar": 320,
+          "Column3": 2400000,
+          "Column4": 480000
+         },
+         {
+          "producto": "MICROFONO JBL  PACK *2",
+          "precio_dolar": 90,
+          "Column3": 675000,
+          "Column4": 135000
+         },
+         {
+          "producto": "AURICULAR JBL TUNE 510 BT",
+          "precio_dolar": 32,
+          "Column3": 240000,
+          "Column4": 48000
+         },
+         {
+          "producto": "PLAY  - RELOJES-ART. VARIOS",
+          "stock":[
+            {
+              "producto": "PLAY 5 1TB SLIM CON LECTORA",
+              "precio_dolar": 500,
+              "Column3": 3750000,
+              "Column4": 750000
+             },
+             {
+              "producto": "PLAY 5 1TB SLIM CON LECTORA + SPIDERMAN",
+              "precio_dolar": 550,
+              "Column3": 4125000,
+              "Column4": 825000
+             },
+             {
+              "producto": "PLAY 5 1 TB SLIM  DIGITAL",
+              "precio_dolar": 460,
+              "Column3": 3450000,
+              "Column4": 690000
+             },
+             {
+              "producto": "JUEGO DE PLAY 5 FIFA 24",
+              "precio_dolar": 40,
+              "Column3": 300000,
+              "Column4": 60000
+             },
+             {
+              "producto": "PLAY 4 1 TB +  JUEGO",
+              "precio_dolar": 335,
+              "Column3": 2512500,
+              "Column4": 502500
+             },
+             {
+              "producto": "NINTENDO SWITCH OLED 64 GB",
+              "precio_dolar": 275,
+              "Column3": 2062500,
+              "Column4": 412500
+             },
+             {
+              "producto": "JOYSTICK PS4",
+              "precio_dolar": 52,
+              "Column3": 390000,
+              "Column4": 78000
+             },
+             {
+              "producto": "JOYSTICK PS5",
+              "precio_dolar": 63,
+              "Column3": 472500,
+              "Column4": 94500
+             },
+             {
+              "producto": "RELOJ MIBRO WATCH A2 XPAW015",
+              "precio_dolar": 35,
+              "Column3": 262500,
+              "Column4": 52500
+             },
+             {
+              "producto": "RELOJ HAYLOU LRS5 LS19",
+              "precio_dolar": 45,
+              "Column3": 337500,
+              "Column4": 67500
+             },
+             {
+              "producto": "RELOJ HAYLOU WATCH 2 PRO",
+              "precio_dolar": 30,
+              "Column3": 225000,
+              "Column4": 45000
+             },
+             {
+              "producto": "RELOJ HAYLOU SOLAR LITE",
+              "precio_dolar": 25,
+              "Column3": 187500,
+              "Column4": 37500
+             },
+             {
+              "producto": "RELOJ HAYLOU SOLAR PRO 2 NEGRO 2 BLANCO",
+              "precio_dolar": 38,
+              "Column3": 285000,
+              "Column4": 57000
+             },
+             {
+              "producto": "RELOJ HAYLOU SOLAR PLUS 2 NEGRO 2 BLANCO",
+              "precio_dolar": 38,
+              "Column3": 285000,
+              "Column4": 57000
+             },
+             {
+              "producto": "AMAZON TV STICK 3RA GENERACION HD",
+              "precio_dolar": 40,
+              "Column3": 300000,
+              "Column4": 60000
+             },
+             {
+              "producto": "XIOAMI TV STICK FULL HD",
+              "precio_dolar": 39,
+              "Column3": 292500,
+              "Column4": 58500
+             },
+             {
+              "producto": "CHROMECAST 4K",
+              "precio_dolar": 53,
+              "Column3": 397500,
+              "Column4": 79500
+             },
+             {
+              "producto": "CHROMECAST HD",
+              "precio_dolar": 40,
+              "Column3": 300000,
+              "Column4": 60000
+             },
+             {
+              "producto": "XIAOMI TV BOX S",
+              "precio_dolar": 50,
+              "Column3": 375000,
+              "Column4": 75000
+             },
+             {
+              "producto": "REPETIDOR DE SEÑAL WIFI XIAOMI RANGE EXTENDER PRO",
+              "precio_dolar": 15,
+              "Column3": 112500,
+              "Column4": 22500
+             },
+             {
+              "producto": "REPETIDOR DE SEÑAL TPLINK",
+              "precio_dolar": 16,
+              "Column3": 120000,
+              "Column4": 24000
+             },
+             {
+              "producto": "CELULAR NOKIA CON TECLAS",
+              "precio_dolar": 15,
+              "Column3": 112500,
+              "Column4": 22500
+             },
+             {
+              "producto": "CELULAR NOKIA 6300 4G CON WHASSAP",
+              "precio_dolar": 32,
+              "Column3": 240000,
+              "Column4": 48000
+             }
+          ]
+         }
+      ]
+     },
+     
+     
+     {
+      "Column3": "Varios",
+      "stock":[
+        {
+          "producto": "MOUSE INALAMBRICO MARCA QUANTA",
+          "precio_dolar": 6,
+          "Column3": 45000,
+          "Column4": 9000
+         },
+         {
+          "producto": "CAMARA EZVIZ C1HC 1080",
+          "precio_dolar": 30,
+          "Column3": 225000,
+          "Column4": 45000
+         },
+         {
+          "producto": "Cámara Ezviz CS-C8C 360 FHD",
+          "precio_dolar": "70",
+          "Column3": 525000
+         },
+         {
+          "producto": "CONTADOR DE BILLETES QUANTA QTCDD20",
+          "precio_dolar": 120,
+          "Column3": 900000,
+          "Column4": 180000
+         },
+         {
+          "producto": "CONTADOR DE BILLETES MARCA SATE",
+          "precio_dolar": 105,
+          "Column3": 787500,
+          "Column4": 157500
+         },
+         {
+          "producto": "ELECTRODOMESTICOS",
+          "Column3": "-",
+          "Column4": 0
+         },
+         {
+          "producto": "HELADERA MIDEA 300 LITROS BLANCO -  INOX - NEGRO",
+          "precio_dolar": 240,
+          "Column3": 1800000,
+          "Column4": 360000
+         },
+         {
+          "producto": "HELADERA MIDAS 350 LITROS BLANCO",
+          "precio_dolar": 290,
+          "Column3": 2175000,
+          "Column4": 435000
+         },
+         {
+          "producto": "HELADERA MIDAS 350 LITROS INOX",
+          "precio_dolar": 305,
+          "Column3": 2226500,
+          "Column4": 445300
+         },
+         {
+          "producto": "COCINA 4 HORNALLAS MARCA ATLAS COLISIUM PLUS",
+          "precio_dolar": 90,
+          "Column3": 657000,
+          "Column4": 131400
+         },
+         {
+          "producto": "LAVARROPA SAMSUNG WOOBLE 8 KG",
+          "precio_dolar": 230,
+          "Column3": 1679000,
+          "Column4": 335800
+         },
+         {
+          "producto": "AIR FRYER MARCA TOKYO 5,2 LITROS",
+          "precio_dolar": 45,
+          "Column3": 328500,
+          "Column4": 65700
+         }
+      ]
+     }
+     
+    ]
+    }
