@@ -15,6 +15,17 @@ export const ProductCard = ({ product }: ProductCardProps) => {
     addToCart({...prod, quantity: 1});
   }
 
+  function formatPrice(price: number): string {
+    // Verificar si el precio es un número válido
+    if (isNaN(price)) {
+      throw new Error('El valor ingresado no es un número válido');
+    }
+  
+    // Formatear el número a dos decimales y agregar comas como separadores de miles
+    const formattedPrice = price.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  
+    return formattedPrice;
+  }
 
 
   return (
@@ -38,7 +49,7 @@ export const ProductCard = ({ product }: ProductCardProps) => {
         </div>
         <div className="flex justify-between items-center sm:flex-col lg:flex-row">
           <span className="block text-gray-950-400 text-xl font-bold">
-            ${product.price}
+            ${formatPrice(product.price)}
           </span>
           <button className="bg-indigo-200 rounded-lg  px-3 py-3 text-xs font-semibold text-zinc-800 hover:bg-green-300 hover:text-gray-900"
                   onClick={ ()=> handleAddToCart(product) }>
@@ -47,7 +58,7 @@ export const ProductCard = ({ product }: ProductCardProps) => {
         </div>
         <div className="flex space-x-3">
           <p className="text-xs text-green-600 font-semibold">30% off</p>
-          <p className="text-xs text-green-600 line-through font-semibold">{`$${ product.price * 1.43}`}</p>
+          <p className="text-xs text-green-600 line-through font-semibold">{`$${ formatPrice(product.price * 1.43)}`}</p>
         </div>
       </div>
     </div>
