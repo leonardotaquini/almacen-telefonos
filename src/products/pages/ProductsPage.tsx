@@ -5,6 +5,7 @@ import { MdNavigateNext, MdNavigateBefore } from "react-icons/md";
 import { Navbar } from "../components/Navbar";
 import { NavbarUI } from "../../ui/components/NavbarUI";
 import { ShoppingCart } from "../../cart/components/Cart";
+import { Spinner } from "../../ui/components/Spinner";
 
 export const ProductsPage = () => {
   const { products, isLoading } = useContext(ProductContext);
@@ -41,7 +42,7 @@ export const ProductsPage = () => {
       <NavbarUI />
       <Navbar />
       {isLoading ? (
-        <p className="text-center text-blue-500">Cargando productos...</p>
+        <Spinner />
       ) : (
         <div>
           <div className="grid grid-cols-12 justify-around items-center">
