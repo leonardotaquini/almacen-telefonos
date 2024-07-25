@@ -3,6 +3,7 @@ import { CartInitialState, CartItem } from "../interfaces/cart.interfaces";
 import { CartContext } from "./CartContext"
 import { CartReducer } from "./CartReducer";
 import { useToast } from "../../ui/hooks/useToast";
+import { useLocation, useNavigate } from "react-router-dom";
 
 interface CartProviderProps {
     children: React.ReactNode;
@@ -11,6 +12,8 @@ interface CartProviderProps {
 export const CartProvider = ({ children }: CartProviderProps) => {
 
     const toast = useToast();
+    const navigate = useNavigate();
+    const location = useLocation();
 
     const initialState: CartInitialState = {
         cartItems: [],
@@ -23,6 +26,12 @@ export const CartProvider = ({ children }: CartProviderProps) => {
         if (cartItems) {
             dispatch({ type: 'LOAD_CART', payload: JSON.parse(cartItems) });
         }
+        if (location.pathname === '/cart') {
+            navigate('/cart');
+            return;
+        }
+        
+        
     }, []);
 
     useEffect(() => {

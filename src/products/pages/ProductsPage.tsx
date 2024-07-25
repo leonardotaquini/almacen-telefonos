@@ -33,6 +33,11 @@ export const ProductsPage = () => {
     setPages(newPages);
   }, [totalPages]);
 
+    // Resetear la paginación a la página 1 cada vez que cambian los productos
+    useEffect(() => {
+      setCurrentPage(1);
+    }, [products]);
+
   const handlePageChange = (pageNumber: number) => {
     setCurrentPage(pageNumber);
   };
@@ -44,7 +49,7 @@ export const ProductsPage = () => {
       {isLoading ? (
         <Spinner />
       ) : (
-        <div>
+        <div className="grid place-items-center">
           <div className="grid grid-cols-12 justify-around items-center">
             {currentProducts.length > 0 ? (
               currentProducts.map((product) => {
@@ -106,7 +111,7 @@ export const ProductsPage = () => {
             >
               <MdNavigateBefore />
             </button>
-            <div className="font-medium">
+            <div className="font-medium px-2">
               Pagina {currentPage} de {pages.length}
             </div>
             <button

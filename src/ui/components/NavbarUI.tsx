@@ -18,7 +18,7 @@ export const NavbarUI = () => {
               <div className="flex items-center justify-between  lg:block">
                     <Link to="/" onClick={ comeBack } className="flex">
                         <SiMarketo  className="text-3xl"/>
-                       <h1 className="text-2xl logo-tech mx-2 text-indigo-600">El almacen tech</h1>
+                       <h1 className="text-2xl logo-tech mx-2 text-indigo-600">Mercado-Tech</h1>
                     </Link>
               </div>
           </div>
