@@ -23,6 +23,7 @@ export const CartReducer = (state:CartInitialState, action: CartAction) => {
                     cartItems: state.cartItems.map((item) => item.id === action.payload.id ? { ...item, quantity: item.quantity - 1 } : item),
                 };
             }
+            localStorage.setItem('cartItems', JSON.stringify(state.cartItems.filter((item) => item.id !== action.payload.id)));
             return {
                 ...state,
                 cartItems: state.cartItems.filter((item) => item.id !== action.payload.id),

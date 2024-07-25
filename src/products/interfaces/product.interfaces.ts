@@ -8,6 +8,7 @@ export interface ProductContextType {
   getProduct: (productId: string) => void;
   getAllProducts: () => void;
   setProducts: (products: Product[]) => void;
+  isLoading: boolean;
 }
 
 export interface Product {
@@ -25,6 +26,7 @@ export interface ProductState {
   amount_products: Product[];
   selectedProduct: Product | undefined;
   productsFiltered: Product[];
+  isLoading: boolean;
 }
 
 export type ProductAction =
@@ -54,4 +56,8 @@ export type ProductAction =
   | {
       type: "SET_PRODUCTS";
       payload: Product[];
+    }
+  | {
+      type: "SET_IS_LOADING";
+      payload: boolean;
     };

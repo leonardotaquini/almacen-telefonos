@@ -2,13 +2,15 @@ import { useEffect, useReducer } from "react";
 import { CartInitialState, CartItem } from "../interfaces/cart.interfaces";
 import { CartContext } from "./CartContext"
 import { CartReducer } from "./CartReducer";
+import { useToast } from "../../ui/hooks/useToast";
 
 interface CartProviderProps {
     children: React.ReactNode;
 }
 
-
 export const CartProvider = ({ children }: CartProviderProps) => {
+
+    const toast = useToast();
 
     const initialState: CartInitialState = {
         cartItems: [],
@@ -23,13 +25,19 @@ export const CartProvider = ({ children }: CartProviderProps) => {
         }
     }, []);
 
+    useEffect(() => {
+        if( state.cartItems.length === 0 ){
+            return;
+        };
+        localStorage.setItem('cartItems', JSON.stringify([...state.cartItems]));
+    }, [state.cartItems]);
+
     const addToCart = (product: CartItem) => {
-        localStorage.setItem('cartItems', JSON.stringify([...state.cartItems, product]));
         dispatch({ type: 'ADD_TO_CART', payload: product });
+        toast('Producto agregado al carrito', 'success');
     }
 
     const removeFromCart = (product: CartItem) => {
-        localStorage.setItem('cartItems', JSON.stringify(state.cartItems.filter((item) => item.id !== product.id)));
         dispatch({ type: 'REMOVE_FROM_CART', payload: product });
     }
 
@@ -38,16 +46,14 @@ export const CartProvider = ({ children }: CartProviderProps) => {
         dispatch({ type: 'CLEAR_CART' });
     }
 
-
-
-  return (
-    <CartContext.Provider value={{
-        cartItems: state.cartItems,
-        addToCart,
-        removeFromCart,
-        clearCart,
-    }}>
-        { children }
-    </CartContext.Provider>
-  )
+    return (
+        <CartContext.Provider value={{
+            cartItems: state.cartItems,
+            addToCart,
+            removeFromCart,
+            clearCart,
+        }}>
+            { children }
+        </CartContext.Provider>
+    )
 }

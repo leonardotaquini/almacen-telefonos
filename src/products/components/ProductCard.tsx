@@ -15,8 +15,10 @@ export const ProductCard = ({ product }: ProductCardProps) => {
     addToCart({...prod, quantity: 1});
   }
 
+
+
   return (
-    <div className="max-w-sm rounded overflow-hidden shadow-lg p-4 m-2 bg-white col-span-12 sm:col-span-4 xl:col-span-3  flex flex-col h-96 border">
+    <div className="max-w-sm rounded overflow-hidden shadow-lg p-4 m-2 bg-white col-span-12 sm:col-span-4   flex flex-col h-96 border">
       <img
         className="w-full h-1/2 object-cover"
         src={ProductImage}
@@ -38,10 +40,14 @@ export const ProductCard = ({ product }: ProductCardProps) => {
           <span className="block text-gray-950-400 text-xl font-bold">
             ${product.price}
           </span>
-          <button className="bg-green-100 rounded-lg  px-3 py-3 text-xs font-semibold text-zinc-800 hover:bg-green-300 hover:text-gray-900"
+          <button className="bg-indigo-200 rounded-lg  px-3 py-3 text-xs font-semibold text-zinc-800 hover:bg-green-300 hover:text-gray-900"
                   onClick={ ()=> handleAddToCart(product) }>
               Agregar al carrito
           </button>
+        </div>
+        <div className="flex space-x-3">
+          <p className="text-xs text-green-600 font-semibold">30% off</p>
+          <p className="text-xs text-green-600 line-through font-semibold">{`$${ product.price * 1.43}`}</p>
         </div>
       </div>
     </div>

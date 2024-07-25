@@ -6,7 +6,7 @@ import { NavbarUI } from "../../ui/components/NavbarUI";
 import { EmptyAnimation } from "../components/EmptyAnimation";
 
 export const CartPage = () => {
-  const { cartItems, removeFromCart } = useContext(CartContext);
+  const { cartItems, removeFromCart, addToCart } = useContext(CartContext);
 
   return (
     <>
@@ -55,7 +55,7 @@ export const CartPage = () => {
                         {item.quantity}
                       </td>
                       <td className="pr-6 py-4 whitespace-nowrap">
-                        $ {item.price}
+                        $ {item.price * item.quantity}
                       </td>
                       <td className="text-right whitespace-nowrap space-x-4">
                         <button
@@ -64,7 +64,8 @@ export const CartPage = () => {
                         >
                           <FaMinus />
                         </button>
-                        <button className="text-indigo-600 font-medium  ">
+                        <button className="text-indigo-600 font-medium"
+                                onClick={ ()=> addToCart({...item, quantity: 1})}>
                           <FaPlus />
                         </button>
                       </td>

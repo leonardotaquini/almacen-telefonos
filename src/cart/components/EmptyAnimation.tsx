@@ -14,11 +14,11 @@ export const EmptyAnimation = () => {
   
 
     return (
-        <div className="flex justify-center items-center flex-col">
-            <Lottie options={defaultOptions} width={300} height={300}/>
-            <p className="text-indigo-500 font-semibold m-auto">
-                Agrega productos al carrito
-            </p>
-        </div>
+            <div className="flex justify-center items-center flex-col">
+                <Lottie options={defaultOptions} width={300} height={300}/>
+                <p className="text-indigo-500 font-semibold m-auto">
+                    Agrega productos al carrito
+                </p>
+            </div>
     );
 };
