@@ -26,3 +26,16 @@ export interface CartItem {
   brand: string;
   quantity: number;
 }
+
+
+export interface CheckoutFormI {
+  name: string;
+  email: string;
+  whatsapp: string;
+  address: string;
+  city: string;
+  province: string;
+  dni: string;
+  zip: string;
+  pay_method: string;
+}

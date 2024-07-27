@@ -6,7 +6,7 @@ import { AppRouter } from "./router/AppRouter"
 function App() {
 
   return (
-    <SnackbarProvider maxSnack={3} autoHideDuration={2000}>
+    <SnackbarProvider maxSnack={3} autoHideDuration={1000}>
       <CartProvider>
         <ProductProvider>
           <AppRouter />
