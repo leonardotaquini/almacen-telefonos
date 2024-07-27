@@ -21,8 +21,8 @@ export const ProductCard = ({ product }: ProductCardProps) => {
       throw new Error('El valor ingresado no es un número válido');
     }
   
-    // Formatear el número a dos decimales y agregar comas como separadores de miles
-    const formattedPrice = price.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    // Formatear el número a dos decimales y agregar PUNTOS como separadores de miles
+    const formattedPrice = price.toLocaleString('es-AR', { minimumFractionDigits: 0, maximumFractionDigits: 2 });
   
     return formattedPrice;
   }
@@ -38,7 +38,7 @@ export const ProductCard = ({ product }: ProductCardProps) => {
       <div className="flex-1 flex flex-col justify-between px-6 py-3">
         <div>
           <div className="font-bold text-sm mb-2 text-center">{product.name}</div>
-          <div className="flex flex-wrap justify-center">
+          <div className="flex items-center text-center justify-center">
             <span className="inline-block bg-blue-100 rounded-full px-3 py-1 text-xs font-semibold text-indigo-700 mr-2 mb-2">
               {product.category}
             </span>
@@ -51,7 +51,7 @@ export const ProductCard = ({ product }: ProductCardProps) => {
           <span className="block text-gray-950-400 text-xl font-bold">
             ${formatPrice(product.price)}
           </span>
-          <button className="bg-indigo-200 rounded-lg  p-3 text-xs font-semibold text-zinc-800 hover:bg-green-300 hover:text-gray-900"
+          <button className="bg-indigo-200 rounded-lg  p-3 text-xs font-semibold text-zinc-800 hover:bg-green-300 hover:text-gray-900 uppercase"
                   onClick={ ()=> handleAddToCart(product) }>
               Agregar al carrito
           </button>

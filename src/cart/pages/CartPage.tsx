@@ -34,30 +34,23 @@ export const CartPage = () => {
               : <div className="mt-12 relative h-max overflow-auto">
               <table className="w-full table-auto text-sm text-left">
                 <thead className="text-gray-600 font-medium border-b">
-                  <tr>
+                  <tr className="bg-indigo-50">
                     <th className="py-3 pr-6">Nombre</th>
-                    <th className="py-3 pr-6">Categoria</th>
-                    <th className="py-3 pr-6">Marca</th>
-                    <th className="py-3 pr-6">Cantidad</th>
-                    <th className="py-3 pr-6">Total</th>
-                    <th className="py-3 pr-6"></th>
+                    <th className="py-3 pr-6 text-center">Cant.</th>
+                    <th className="py-3 pr-6 text-center">Accion</th>
+                    <th className="py-3 pr-10 r">Total</th>
                   </tr>
                 </thead>
                 <tbody className="text-gray-600 divide-y">
                   {cartItems.map((item, idx) => (
-                    <tr key={idx}>
-                      <td className="pr-6 py-4 whitespace-nowrap">{item.name}</td>
-                      <td className="pr-6 py-4 whitespace-nowrap">
-                        {item.category}
-                      </td>
-                      <td className="pr-6 py-4 whitespace-nowrap">{item.brand}</td>
-                      <td className="pr-6 py-4 whitespace-nowrap">
+                    <tr key={idx} className="">
+                      <td className="capitalize">{item.name}</td>
+                      
+                      <td className="text-center xs:py-5 md:py-3">
                         {item.quantity}
                       </td>
-                      <td className="pr-6 py-4 whitespace-nowrap">
-                        $ {item.price * item.quantity}
-                      </td>
-                      <td className="text-right whitespace-nowrap space-x-4">
+
+                      <td className="text-center space-x-3  xs:py-5 md:py-3">
                         <button
                           className="text-indigo-600 font-medium"
                           onClick={() => removeFromCart({...item, quantity: 1})}
@@ -69,8 +62,19 @@ export const CartPage = () => {
                           <FaPlus />
                         </button>
                       </td>
+
+                      <td className="xs:py-5 md:py-3">
+                        $ {item.price * item.quantity}
+                      </td>  
                     </tr>
                   ))}
+                  <tr className="bg-indigo-50">
+                    <td colSpan={3} className="text-right py-3 font-medium">
+                    </td>
+                    <td className="py-3 font-bold text-indigo-500 text-md">
+                      $ {cartItems.reduce((acc, item) => acc + item.price * item.quantity, 0)}
+                    </td>
+                  </tr>
                 </tbody>
               </table>
             </div>
