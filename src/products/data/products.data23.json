@@ -89,12 +89,204 @@
       "brand": "Stanley",
       "category": "Termos"
     },
+    {
+      "name": "TAZA STANLEY \"BLANCO. DORADO. NEGRO. VERDE Y BORDO\"",
+      "price": 30,
+      "description": "Taza Stanley disponible en colores blanco, dorado, negro, verde y bordo. Perfecta para disfrutar de tus bebidas en cualquier momento.",
+      "image": "https://example.com/images/taza-stanley-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Tazas"
+    },
+    {
+      "name": "FLIP STRAW KIDS \"CELESTE-CORAL-GRIS\"",
+      "price": 30,
+      "description": "Flip Straw Kids disponible en colores celeste, coral y gris. Diseñado especialmente para los más pequeños.",
+      "image": "https://example.com/images/flip-straw-kids-celeste-coral-gris.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "FLIP TUMBLER 880 ML AMARILLO AZUL MORADO CREMA VERDE  BLANCO NEGRO",
+      "price": 39,
+      "description": "Flip Tumbler de 880 ml disponible en varios colores: amarillo, azul, morado, crema, verde, blanco y negro. Ideal para mantener tus bebidas a la temperatura deseada.",
+      "image": "https://example.com/images/flip-tumbler-880ml-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "FLIP STRAW BOTTLE 650 ML - NEGRO  - BLANCO",
+      "price": 34,
+      "description": "Flip Straw Bottle de 650 ml en colores negro y blanco. Perfecta para mantenerte hidratado en cualquier lugar.",
+      "image": "https://example.com/images/flip-straw-bottle-650ml-negro-blanco.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "TRAVEL TUMBLER 600 ML CON PAJITA \"NEGRO. CREMA. ROSA. VERDE. CELESTE. BLANCO\"",
+      "price": 32,
+      "description": "Travel Tumbler de 600 ml con pajita, disponible en colores negro, crema, rosa, verde, celeste y blanco. Ideal para llevar tus bebidas favoritas.",
+      "image": "https://example.com/images/travel-tumbler-600ml-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "TRAVEL QUENCHER 887 ML CELESTE CON BLANCO - VERDE CON BLANCO",
+      "price": 47,
+      "description": "Travel Quencher de 887 ml disponible en combinaciones de colores celeste con blanco y verde con blanco. Perfecto para viajes y actividades al aire libre.",
+      "image": "https://example.com/images/travel-quencher-887ml-celeste-verde.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "TRAVEL QUENCHER 1,2 LITROS \" AZUL. MARRON. MOSTAZA.\"",
+      "price": 53,
+      "description": "Travel Quencher de 1.2 litros disponible en colores azul, marrón y mostaza. Ideal para largas jornadas de hidratación.",
+      "image": "https://example.com/images/travel-quencher-1.2l-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "TRAVEL QUENCHER 1.2 LITROS ROSADO.  CREMA",
+      "price": 59,
+      "description": "Travel Quencher de 1.2 litros en colores rosado y crema. Perfecto para mantener tus bebidas a la temperatura adecuada.",
+      "image": "https://example.com/images/travel-quencher-1.2l-rosado-crema.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "MATERO  STANLEY \"NEGRO. BLANCO. AZUL. ROJO. . ROSADO - VERDE - DORADO \"",
+      "price": 27,
+      "description": "Matero Stanley disponible en varios colores: negro, blanco, azul, rojo, rosado, verde y dorado. Perfecto para disfrutar de tu mate.",
+      "image": "https://example.com/images/matero-stanley-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Accesorios"
+    },
+    {
+      "name": "VASO CERVECERO CON TAPA ABRIDOR \"AZUL NEGRO BLANCO VERDE BORDO CAMUFLADO ROSADO",
+      "price": 27,
+      "description": "Vaso cervecero con tapa y abridor disponible en colores azul, negro, blanco, verde, bordo, camuflado y rosado. Ideal para disfrutar de tu cerveza favorita.",
+      "image": "https://example.com/images/vaso-cervecero-tapa-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Vasos"
+    },
+    {
+      "name": "VASO CERVECERO SIN TAPA \"CORAL. AZUL. NEGRO. BLANCO. VERDE. NARANJA\"",
+      "price": 22,
+      "description": "Vaso cervecero sin tapa disponible en colores coral, azul, negro, blanco, verde y naranja. Perfecto para cualquier ocasión.",
+      "image": "https://example.com/images/vaso-cervecero-sin-tapa-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Vasos"
+    },
+    {
+      "name": "VASO CERVECERO SIN TAPA X 2 \"EDICION ARGENTINA\"",
+      "price": 35,
+      "description": "Set de 2 vasos cerveceros sin tapa, edición Argentina. Perfectos para compartir con amigos.",
+      "image": "https://example.com/images/vaso-cervecero-sin-tapa-x2.jpg",
+      "brand": "Stanley",
+      "category": "Vasos"
+    },
+    {
+      "name": "VASO CHOPERA 700 ML \"VERDE. NEGRO. BLANCO\"",
+      "price": 34,
+      "description": "Vaso chopera de 700 ml disponible en colores verde, negro y blanco. Ideal para disfrutar de una cerveza bien fría.",
+      "image": "https://example.com/images/vaso-chopera-700ml-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Vasos"
+    },
+    {
+      "name": "VASO EVERY DAY \"VERDE. AZUL. NEGRO\"",
+      "price": 20,
+      "description": "Vaso Every Day disponible en colores verde, azul y negro. Perfecto para el uso diario.",
+      "image": "https://example.com/images/vaso-everyday-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Vasos"
+    },
+    {
+      "name": "GALON FLIP STRAW 1,89 LITROS \"AZUL Y BLANCO\"",
+      "price": 53,
+      "description": "Galón Flip Straw de 1.89 litros en colores azul y blanco. Ideal para grandes cantidades de hidratación.",
+      "image": "https://example.com/images/galon-flip-straw-1.89l-azul-blanco.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "GALON FLIP STRAW 1,2 LITROS \"BLANCO ..VERDE.. AZUL\"",
+      "price": 45,
+      "description": "Galón Flip Straw de 1.2 litros disponible en colores blanco, verde y azul. Perfecto para mantenerte hidratado durante todo el día.",
+      "image": "https://example.com/images/galon-flip-straw-1.2l-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "BOMBILA \"NEGRO Y VERDE\"",
+      "price": 17,
+      "description": "Bombilla disponible en colores negro y verde. Perfecta para disfrutar de tu mate.",
+      "image": "https://example.com/images/bombilla-negro-verde.jpg",
+      "brand": "Stanley",
+      "category": "Accesorios"
+    },
+    {
+      "name": "BOMBILLA SPRING CON RESORTE",
+      "price": "-",
+      "description": "Bombilla Spring con resorte. Ideal para una experiencia única de mate.",
+      "image": "https://example.com/images/bombilla-spring-con-resorte.jpg",
+      "brand": "Stanley",
+      "category": "Accesorios"
+    },
+    {
+      "name": "JARRA STANLEY \"VERDE - BLANCO - ROSADO",
+      "price": 65,
+      "description": "Jarra Stanley disponible en colores verde, blanco y rosado. Ideal para servir tus bebidas favoritas.",
+      "image": "https://example.com/images/jarra-stanley-varios-colores.jpg",
+      "brand": "Stanley",
+      "category": "Accesorios"
+    },
+    {
+      "name": "FLIP GO BOTTLE 700 ML NEGRO Y BLANCO",
+      "price": 35,
+      "description": "Flip Go Bottle de 700 ml en colores negro y blanco. Perfecta para llevar tus bebidas favoritas.",
+      "image": "https://example.com/images/flip-go-bottle-700ml-negro-blanco.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "FLIP GO BOTTLE 1,06  LITROS NEGRO Y BLANCO",
+      "price": 41,
+      "description": "Flip Go Bottle de 1.06 litros en colores negro y blanco. Ideal para mantener tus bebidas a la temperatura adecuada.",
+      "image": "https://example.com/images/flip-go-bottle-1.06l-negro-blanco.jpg",
+      "brand": "Stanley",
+      "category": "Botellas"
+    },
+    {
+      "name": "TERMO MATE SYSTEM 800 ML \"DORADO \"",
+      "price": 59,
+      "description": "Termo Mate System de 800 ml en color dorado. Diseñado especialmente para los amantes del mate.",
+      "image": "https://example.com/images/termo-mate-system-800ml-dorado.jpg",
+      "brand": "Stanley",
+      "category": "Termos"
+    },
+    {
+      "name": "CONSERVADORA STANLEY 6,6 LITROS .. BLANCOO",
+      "price": 80,
+      "description": "Conservadora Stanley de 6.6 litros en color blanco. Ideal para mantener tus alimentos y bebidas frescas.",
+      "image": "https://example.com/images/conservadora-stanley-6.6l-blanco.jpg",
+      "brand": "Stanley",
+      "category": "Conservadoras"
+    },
+    {
+      "name": "CONSERVADORA STANLEY 15,1 LITROS .. BLANCO",
+      "price": 99,
+      "description": "Conservadora Stanley de 15.1 litros en color blanco. Perfecta para viajes y actividades al aire libre.",
+      "image": "https://example.com/images/conservadora-stanley-15.1l-blanco.jpg",
+      "brand": "Stanley",
+      "category": "Conservadoras"
+    },
 
     {
       "name": "IPHONE 11 64 GB NEGRO",
       "price": 345,
       "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/001/116/601/products/art003634i-8d0b0901cbcc3e3ff217103615897291-1024-1024.png",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -102,7 +294,7 @@
       "name": "IPHONE 11 64 GB BLANCO",
       "price": 350,
       "description": "",
-      "image": "https://dcdn.mitiendanube.com/stores/002/026/619/products/3-e98f17513d33fcfe5e16999841522747-640-0.jpg",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -110,7 +302,7 @@
       "name": "IPHONE 11 128 GB - NEGRO",
       "price": 380,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_656548-MLA46114829749_052021-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -118,7 +310,7 @@
       "name": "IPHONE 11 128 GB - BLANCO",
       "price": 385,
       "description": "",
-      "image": "https://dcdn.mitiendanube.com/stores/002/026/619/products/3-e98f17513d33fcfe5e16999841522747-640-0.jpg",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -126,7 +318,7 @@
       "name": "IPHONE 13 128 GB AZUL",
       "price": 555,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_795127-MLU77719747195_072024-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -134,7 +326,7 @@
       "name": "IPHONE 13 128 GB VERDE",
       "price": 555,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_736376-MLA49590060561_042022-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -142,7 +334,7 @@
       "name": "IPHONE 13 128 GB ROSADO",
       "price": 560,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_654080-MLA47781882564_102021-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -150,7 +342,7 @@
       "name": "IPHONE 13 128 GB BLANCO",
       "price": 560,
       "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/004/225/021/products/3431764_1_1-72fc9843be363bc2fc17111302046889-1024-1024.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -158,7 +350,7 @@
       "name": "IPHONE 13 128 GB NEGRO",
       "price": 555,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_633038-MLU75011517373_032024-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -166,7 +358,7 @@
       "name": "IPHONE 13 256 GB",
       "price": 695,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_821416-MLA47781962896_102021-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -174,7 +366,7 @@
       "name": "IPHONE 14 128 GB BLANCO.",
       "price": 660,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_918579-MLM51559384401_092022-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -182,7 +374,7 @@
       "name": "IPHONE 14 128 GB NEGRO",
       "price": 660,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_651710-MLM51559386433_092022-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -190,7 +382,7 @@
       "name": "IPHONE 14 128 GB LILA",
       "price": 655,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_786356-MLM51559385272_092022-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -198,7 +390,7 @@
       "name": "IPHONE 14 128 GB  AZUL",
       "price": 655,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_864844-MLM51559388062_092022-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -206,7 +398,7 @@
       "name": "IPHONE 14 256 GB",
       "price": 855,
       "description": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m89YIb364e-tW3JHY3HqIl9dnw1uwCIPWg&s",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -214,7 +406,7 @@
       "name": "IPHONE 15 128 GB ROSADO",
       "price": 730,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_958009-MLA71782868134_092023-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -222,7 +414,7 @@
       "name": "IPHONE 15 128 GB NEGRO",
       "price": 730,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_Q_NP_779617-MLA71782867320_092023-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -230,7 +422,7 @@
       "name": "IPHONE 15 128 GB AZUL",
       "price": 730,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_759471-MLA71782897602_092023-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -238,7 +430,7 @@
       "name": "IPHONE 15 128 GB VERDE",
       "price": 730,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_767731-MLA71782898424_092023-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -246,7 +438,7 @@
       "name": "IPHONE 15 256 GB",
       "price": 870,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_791726-MLA71835622157_092023-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -254,7 +446,7 @@
       "name": "IPHONE 15 PRO 128 GB.. BLANCO",
       "price": 920,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_812116-MLA71783168214_092023-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -262,7 +454,7 @@
       "name": "IPHONE 15 PRO 128 GB NEGRO",
       "price": 920,
       "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/004/225/021/products/3847473_1_1-72b6a25876b3c271f217066476798281-1024-1024.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -270,7 +462,7 @@
       "name": "IPHONE 15 PRO 128 GB AZUL",
       "price": 920,
       "description": "",
-      "image": "https://cdn-ipoint.waugi.com.ar/26704-medium_default/iphone-15-pro-128gb.jpg",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -278,7 +470,7 @@
       "name": "IPHONE 15 PRO 128 GB NATURAL",
       "price": 920,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_878826-MLA71783168396_092023-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -286,7 +478,7 @@
       "name": "IPHONE 15 PRO 256 GB NATURAL TITANIUM",
       "price": 1015,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_878826-MLA71783168396_092023-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -294,7 +486,7 @@
       "name": "IPHONE 15 PRO 256 GB BLANCO",
       "price": 1015,
       "description": "",
-      "image": "https://cdn-ipoint.waugi.com.ar/26645-large_default/iphone-15-pro-max-256gb.jpg",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -302,7 +494,7 @@
       "name": "IPHONE 15 PRO 256 GB NEGRO",
       "price": 1015,
       "description": "",
-      "image": "https://cdn-ipoint.waugi.com.ar/26703-thickbox_default/iphone-15-pro-max-256gb.jpg",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -310,7 +502,7 @@
       "name": "IPHONE 15 PRO 256 GB AZUL",
       "price": 1015,
       "description": "",
-      "image": "https://cdn-ipoint.waugi.com.ar/26705-large_default/iphone-15-pro-max-256gb.jpg",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -318,7 +510,7 @@
       "name": "IPHONE 15 PRO MAX 256 GB AZUL",
       "price": 1090,
       "description": "",
-      "image": "https://cdn-ipoint.waugi.com.ar/26686-thickbox_default/iphone-15-pro-max-256gb.jpg",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -326,7 +518,7 @@
       "name": "IPHONE 15 PRO MAX 256 GB NEGRO",
       "price": 1090,
       "description": "",
-      "image": "https://cdn-ipoint.waugi.com.ar/26703-medium_default/iphone-15-pro-max-256gb.jpg",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -334,7 +526,7 @@
       "name": "IPHONE 15 PRO MAX 256 GB BLANCO",
       "price": 1090,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_924631-MLA71783367058_092023-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -342,7 +534,7 @@
       "name": "IPHONE 15 PRO MAX 256 GB NATURAL TITANIUM",
       "price": 1090,
       "description": "",
-      "image": "https://cdn-ipoint.waugi.com.ar/26708-large_default/iphone-15-pro-max-256gb.jpg",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -350,7 +542,7 @@
       "name": "IPHONE 15 PRO MAX 512 GB",
       "price": 1350,
       "description": "",
-      "image": "https://todoapplecaba.com.ar/wp-content/uploads/2022/11/image.jpeg",
+      "image": "",
       "brand": "Apple",
       "category": "Smartphones"
     },
@@ -358,7 +550,7 @@
       "name": "CARGADOR IPHONE ORIGINAL 20W",
       "price": 23,
       "description": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1G1Qe_qEwvKun31UTT2lPkihV35qLlg2gEA&s",
+      "image": "",
       "brand": "Apple",
       "category": "Accesorios"
     },
@@ -366,7 +558,7 @@
       "name": "CABLE PARA IPHONE ORIGINAL",
       "price": 23,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_696281-MLC46585908324_072021-O.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Accesorios"
     },
@@ -374,7 +566,7 @@
       "name": "CARGADOR TRIPLE A IPHONE",
       "price": 7,
       "description": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeJCgA9VdPfhHf98mbSb4-ZxkZJQikKfcmQ&s",
+      "image": "",
       "brand": "Apple",
       "category": "Accesorios"
     },
@@ -382,136 +574,136 @@
       "name": "CABLE PARA IPHONE 15. TIPO C A C",
       "price": 24,
       "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/652/596/products/cable-usb-c-a-usb-c-1mts-iphone-15-15-pro-15-pro-max-15-plus-16c742bdff7231586b16964300109087-1024-1024-0567220f312adb0c4a17080292522104-640-0.webp",
+      "image": "",
       "brand": "Apple",
       "category": "Accesorios"
     },
     {
-      "name": "A04E 3 RAM 32 GB",
+      "name": "A04E 32  GB",
       "price": 85,
       "description": "",
-      "image": "https://hiperaudio.com.ar/wp-content/uploads/2023/07/A04E.png",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A05 4 RAM 64 GB",
+      "name": "A05 4 64  GB",
       "price": 97,
       "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/001/395/398/products/whatsapp-image-2024-06-05-at-19-01-18-f8b4263863b485709b17176250050249-1024-1024.jpeg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A05 4 RAM 128 GB",
+      "name": "A05 4 128  GB",
       "price": 105,
       "description": "",
-      "image": "https://tiendacentro.com/wp-content/uploads/2024/04/SAMSUNG-A-05-1.png",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A05S 4 RAM 128  GB",
+      "name": "A05S 4 128  GB",
       "price": 120,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_925789-MLU77732823416_072024-O.webp",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
 
     {
-      "name": "A15. 4G. 4 RAM 128  GB",
+      "name": "A15. 4G.  4 128  GB",
       "price": 112,
       "description": "",
-      "image": "https://www.cetrogar.com.ar/media/catalog/product/s/m/sm-a155_galaxy-a15-lte_light-blue_front.png?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A15. 4G. 6 RAM 128  GB",
+      "name": "A15. 4G.  6 128  GB",
       "price": 116,
       "description": "",
-      "image": "https://www.cetrogar.com.ar/media/catalog/product/s/m/sm-a155_galaxy-a15-lte_light-blue_front.png?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A15. 5G. 6 RAM 128  GB",
+      "name": "A15. 5G. 6 128  GB",
       "price": 127,
       "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/001/097/819/products/samsung-a15-0077edb63afdb4413317110423252390-1024-1024.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A15. 5G. 8 RAM 256  GB",
+      "name": "A15. 5G. 8 256  GB",
       "price": 165,
       "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/001/395/398/products/whatsapp-image-2024-06-08-at-11-27-35-9580a2b6edd27daff617178584146367-1024-1024.jpeg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A25 5G  6 RAM 128 GB",
+      "name": "A25 5G  6 128 GB",
       "price": 175,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_610368-MLU77341906212_072024-O.webp",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A25 5G 8 RAM 256  GB",
+      "name": "A25 5G 8 256  GB",
       "price": 195,
       "description": "",
-      "image": "https://www.sagitariodigital.com.ar/wp-content/uploads/2024/01/A25-2.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A34 5G..  6 RAM 128 GB",
+      "name": "A34 5G..  6/128  GB",
       "price": 230,
       "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_680639-MLA54691106460_032023-O.webp",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A35 5G 6 RAM 128  GB",
+      "name": "A35 5G 6 128  GB",
       "price": 250,
       "description": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanQQsjRvjfb-0vIJFHfDfnQ2R-R3mXu7pgw&s",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A35 5G 8 RAM 128 GB",
+      "name": "A35 5G 8 128 GB",
       "price": 260,
       "description": "",
-      "image": "https://www.cordobadigital.net/wp-content/uploads/2024/05/A35-1.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A35 5G 8 RAM 256 GB",
+      "name": "A35 5G 8 256 GB",
       "price": 300,
       "description": "",
-      "image": "https://www.ventaconcretada.com/wp-content/uploads/2024/04/A55-copia-a.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A54 5G 8 RAM 128  GB",
+      "name": "A54 5G 8 128  GB",
       "price": 300,
       "description": "",
-      "image": "https://www.oscarbarbieri.com/pub/media/catalog/product/cache/7baadf0dec41407c7702efdbff940ecb/a/5/a54_graf_1_1.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A54 5G 8 RAM 256  GB",
+      "name": "A54 5G 8 256  GB",
       "price": 345,
       "description": "",
-      "image": "https://samsungarsmb.vtexassets.com/arquivos/ids/165543/SM-A546-Galaxy-A54-5-G-Awesome-Graphite-Front2-256-GB.jpg?v=638151977346200000",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -519,7 +711,7 @@
       "name": "A55 5G 8 128 GB",
       "price": 315,
       "description": "",
-      "image": "https://dcdn.mitiendanube.com/stores/001/301/921/products/1-3fc0fd3ace274079aa17144354919532-1024-1024.png",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -527,7 +719,7 @@
       "name": "A55 5G 8 256 GB",
       "price": 360,
       "description": "",
-      "image": "https://dcdn.mitiendanube.com/stores/001/301/921/products/1-3fc0fd3ace274079aa17144354919532-1024-1024.png",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -535,7 +727,7 @@
       "name": "S23 FE 5G 8 - 128 GB",
       "price": 420,
       "description": "",
-      "image": "https://multipoint.com.ar/Image/0/750_750-c82.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -543,7 +735,7 @@
       "name": "S23 FE 5G 8/256 GB",
       "price": 465,
       "description": "",
-      "image": "https://www.ventaconcretada.com/wp-content/uploads/2023/10/SAMSUNG-S23-FE-2.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -551,7 +743,7 @@
       "name": "S23 ULTRA 12 256  GB",
       "price": 835,
       "description": "",
-      "image": "https://www.sagitariodigital.com.ar/wp-content/uploads/2023/04/s23-ultra-2-1.png",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -559,7 +751,7 @@
       "name": "S24 128  GB",
       "price": 630,
       "description": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG7Mc9QUodotpqQetLtl2Qba_J8sN2E4yIqQ&s",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -567,7 +759,7 @@
       "name": "S24 256  GB",
       "price": 685,
       "description": "",
-      "image": "https://www.ventaconcretada.com/wp-content/uploads/2024/04/S24-256GB.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -575,7 +767,7 @@
       "name": "S24 PLUS 256 GB",
       "price": 700,
       "description": "",
-      "image": "https://tiendaonline.movistar.com.ar/media/catalog/product/s/2/s24_-onyxblack-front.png",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -583,7 +775,7 @@
       "name": "S24 ULTRA 256 GB",
       "price": 980,
       "description": "",
-      "image": "https://nextgames.com.ar/img/Public/1040/3989-producto-samsung-galaxy.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -591,7 +783,7 @@
       "name": "S24 ULTRA 512 GB",
       "price": 1100,
       "description": "",
-      "image": "https://dcdn.mitiendanube.com/stores/001/555/911/products/s24-ultra-gris-fa87a0fdb450fa63ac17148689933448-1024-1024.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Smartphones"
     },
@@ -599,7 +791,7 @@
       "name": "TABLET A7 LITE 8,7\" WIFI 64 GB",
       "price": 125,
       "description": "",
-      "image": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-t220nzadaro/gallery/ar-galaxy-tab-a7-lite-wifi-t220-393873-sm-t220nzadaro-530741672?$650_519_PNG$",
+      "image": "",
       "brand": "Samsung",
       "category": "Tablets"
     },
@@ -607,7 +799,7 @@
       "name": "TABLET Tab A SM-T307U 32GB 8.4\" 4G",
       "price": 105,
       "description": "",
-      "image": "https://comprarmag.com/wp-content/uploads/2024/01/WhatsApp-Image-2024-01-10-at-11.11.28-AM.jpeg",
+      "image": "",
       "brand": "Samsung",
       "category": "Tablets"
     },
@@ -615,7 +807,7 @@
       "name": "TABLET A8 10,5\" WIFI 64 GB",
       "price": 180,
       "description": "",
-      "image": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-x200nzamaro/gallery/ar-galaxy-a8-sm-x200-sm-x200nzamaro-531066536?$650_519_PNG$",
+      "image": "",
       "brand": "Samsung",
       "category": "Tablets"
     },
@@ -623,15 +815,15 @@
       "name": "CARGADOR ORIGINAL SAMSUNG 25 W",
       "price": 20,
       "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/456/408/products/d104-cargador-25w-sam-3-2e2c05208653a4888517054316978240-1024-1024.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Accesorios"
     },
     {
-      "name": "CARGADOR ORIGINAL SAMSUNG 15W",
+      "name": "CARGADOR OIRGINAL SAMSUNG 15W",
       "price": 15,
       "description": "",
-      "image": "https://www.tiendaclic.com.ar/76844902-large_default/cargador-samsung-15w-c-cable-type-c-negro.jpg",
+      "image": "",
       "brand": "Samsung",
       "category": "Accesorios"
     },
@@ -639,7 +831,7 @@
       "name": "CARGADOR ORIGINAL SAMSUNG 45W",
       "price": 37,
       "description": "",
-      "image": "https://images.samsung.com/is/image/samsung/p6pim/ar/feature/164013952/ar-feature-super-fast-charging-for-a-wide-range-of-devices--531990718?$FB_TYPE_A_MO_JPG$",
+      "image": "",
       "brand": "Samsung",
       "category": "Accesorios"
     },

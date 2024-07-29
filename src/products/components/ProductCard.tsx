@@ -31,9 +31,10 @@ export const ProductCard = ({ product }: ProductCardProps) => {
   return (
     <div className="max-w-sm rounded overflow-hidden shadow-lg p-4 m-2 bg-white col-span-12 lg:col-span-4   flex flex-col h-96 border">
       <img
-        className="w-full h-1/2 object-cover"
-        src={ProductImage}
+        className="w-full h-1/2  hover:scale-105 hover:transform hover:transition-transform hover:duration-500 "
+        src={product.image || ProductImage}
         alt={product.name}
+        style={{ objectFit: "contain" }} // Add this line to make the image fit completely
       />
       <div className="flex-1 flex flex-col justify-between px-6 py-3">
         <div>
