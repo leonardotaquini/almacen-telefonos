@@ -84,14 +84,14 @@ export const CartPage = () => {
                     </td>
 
                     <td className="xs:py-5 md:py-3">
-                      $ {formatPrice(item.price * item.quantity)}
+                      ${formatPrice(item.price * item.quantity)}
                     </td>
                   </tr>
                 ))}
                 <tr className="bg-indigo-50">
                   <td colSpan={3} className="text-right py-3 font-medium"></td>
-                  <td className="py-3 font-bold text-indigo-500 text-md">
-                    ${" "}
+                  <td className="py-3 font-bold text-indigo-500 text-md px-1">
+                    ${""}
                     {calculateTotal()}
                   </td>
                 </tr>

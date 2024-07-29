@@ -22,7 +22,7 @@ export const ProductCard = ({ product }: ProductCardProps) => {
     }
   
     // Formatear el número a dos decimales y agregar PUNTOS como separadores de miles
-    const formattedPrice = price.toLocaleString('es-AR', { minimumFractionDigits: 0, maximumFractionDigits: 2 });
+    const formattedPrice = price.toLocaleString('es-AR', { minimumFractionDigits: 0, maximumFractionDigits: 0});
   
     return formattedPrice;
   }
