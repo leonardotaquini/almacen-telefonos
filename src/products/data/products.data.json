@@ -266,38 +266,7 @@
       "brand": "Apple",
       "category": "Smartphones"
     },
-    {
-      "name": "CARGADOR IPHONE ORIGINAL 20W",
-      "price": 23,
-      "description": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1G1Qe_qEwvKun31UTT2lPkihV35qLlg2gEA&s",
-      "brand": "Apple",
-      "category": "Accesorios"
-    },
-    {
-      "name": "CABLE PARA IPHONE ORIGINAL",
-      "price": 23,
-      "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_696281-MLC46585908324_072021-O.webp",
-      "brand": "Apple",
-      "category": "Accesorios"
-    },
-    {
-      "name": "CARGADOR TRIPLE A IPHONE",
-      "price": 7,
-      "description": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeJCgA9VdPfhHf98mbSb4-ZxkZJQikKfcmQ&s",
-      "brand": "Apple",
-      "category": "Accesorios"
-    },
-    {
-      "name": "CABLE PARA IPHONE 15. TIPO C A C",
-      "price": 24,
-      "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/652/596/products/cable-usb-c-a-usb-c-1mts-iphone-15-15-pro-15-pro-max-15-plus-16c742bdff7231586b16964300109087-1024-1024-0567220f312adb0c4a17080292522104-640-0.webp",
-      "brand": "Apple",
-      "category": "Accesorios"
-    },
+  
     {
       "name": "A04E 3 RAM 32 GB",
       "price": 85,
@@ -531,30 +500,7 @@
       "brand": "Samsung",
       "category": "Tablets"
     },
-    {
-      "name": "CARGADOR ORIGINAL SAMSUNG 25 W",
-      "price": 20,
-      "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/456/408/products/d104-cargador-25w-sam-3-2e2c05208653a4888517054316978240-1024-1024.jpg",
-      "brand": "Samsung",
-      "category": "Accesorios"
-    },
-    {
-      "name": "CARGADOR ORIGINAL SAMSUNG 15W",
-      "price": 15,
-      "description": "",
-      "image": "https://www.tiendaclic.com.ar/76844902-large_default/cargador-samsung-15w-c-cable-type-c-negro.jpg",
-      "brand": "Samsung",
-      "category": "Accesorios"
-    },
-    {
-      "name": "CARGADOR ORIGINAL SAMSUNG 45W",
-      "price": 37,
-      "description": "",
-      "image": "https://images.samsung.com/is/image/samsung/p6pim/ar/feature/164013952/ar-feature-super-fast-charging-for-a-wide-range-of-devices--531990718?$FB_TYPE_A_MO_JPG$",
-      "brand": "Samsung",
-      "category": "Accesorios"
-    },
+ 
     {
       "name": "MOTO E22i 32 gb",
       "price": 70,
