@@ -58,8 +58,9 @@ export const ProductCard = ({ product }: ProductCardProps) => {
           </button>
         </div>
         <div className="flex space-x-3">
-          <p className="text-xs text-green-600 font-semibold">30% off</p>
-          <p className="text-xs text-green-600 line-through font-semibold">{`$${ formatPrice(product.price * 1.43)}`}</p>
+          {/* <p className="text-xs text-green-600 font-semibold">30% off</p> */}
+          {/* <p className="text-xs text-green-600 line-through font-semibold">{`$${ formatPrice(product.price * 1.43)}`}</p> */}
+          <p className="text-sm text-green-600 font-semibold">Envio Gratis</p>
         </div>
       </div>
     </div>

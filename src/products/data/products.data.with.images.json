@@ -1,6 +1,94 @@
 {
   "productos": [
-   
+    {
+      "name": "Johnnie Walker Black Label 1 Litro",
+      "price": 25,
+      "description": "Un whisky escocés de mezcla premium con sabores ricos y complejos de frutas oscuras, vainilla dulce y un toque de humo.",
+      "image": "https://acdn.mitiendanube.com/stores/001/211/660/products/img_32931-5f9b23f0804c39cf3c16377751339403-640-0.png",
+      "brand": "Johnnie Walker",
+      "category": "Black Label"
+    },
+    {
+      "name": "Johnnie Walker RED Label 1 Litro",
+      "price": 15,
+      "description": "Un whisky escocés vibrante con sabores audaces y un toque de especias y humo.",
+      "image": "https://www.drinkshop.com.ar/img/productos/30002.jpg",
+      "brand": "Johnnie Walker",
+      "category": "RED Label"
+    },
+    {
+      "name": "Johnnie Walker Double Black 1 Litro",
+      "price": 30,
+      "description": "Una versión más intensa y ahumada del Black Label, con sabores de frutas secas y especias cálidas.",
+      "image": "https://www.espaciovino.com.ar/media/default/0001/69/thumb_68835_default_medium.jpeg",
+      "brand": "Johnnie Walker",
+      "category": "Double Black"
+    },
+    {
+      "name": "Johnnie Walker Gold Label 750 ML",
+      "price": 42,
+      "description": "Un whisky escocés de mezcla suave y lujoso con notas de miel, caramelo y frutas maduras.",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_801711-MLA47247009622_082021-O.webp",
+      "brand": "Johnnie Walker",
+      "category": "Gold Label"
+    },
+    {
+      "name": "Johnnie Walker Gold Label 750 ML \"18 AÑOS\"",
+      "price": 80,
+      "description": "Un whisky escocés premium envejecido 18 años, con sabores ricos y complejos de frutas, vainilla y roble.",
+      "image": "https://d2eebw31vcx88p.cloudfront.net/whisky-boutique/uploads/895ce59794ee9fbd5c7af48f5c00f120fa6c6d43.jpg.webp",
+      "brand": "Johnnie Walker",
+      "category": "Gold Label 18 AÑOS"
+    },
+    {
+      "name": "Johnnie Walker GREEN 750 ML",
+      "price": 55,
+      "description": "Un whisky escocés de mezcla con maltas únicas, ofreciendo un perfil de sabor complejo con notas de madera, frutas y especias.",
+      "image": "https://distrimum.com.ar/wp-content/uploads/2024/07/20703.jpg",
+      "brand": "Johnnie Walker",
+      "category": "GREEN"
+    },
+    {
+      "name": "Whisky Johnnie Walker Blue Label 750ML",
+      "price": 130,
+      "description": "El whisky más exclusivo de Johnnie Walker, con una mezcla excepcional de sabores ricos y suaves, perfecto para ocasiones especiales.",
+      "image": "https://drinkshop.com.ar/img/productos/30009.jpg",
+      "brand": "Johnnie Walker",
+      "category": "Blue Label"
+    },
+
+    {
+      "name": "TERMO 940 ML \". ROJO. AZUL. \"",
+      "price": 51,
+      "description": "Un termo de 940 ml disponible en colores rojo y azul, ideal para mantener tus bebidas calientes o frías durante todo el día.",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_916124-MLU73043836937_112023-O.webp",
+      "brand": "Stanley",
+      "category": "Termos"
+    },
+    {
+      "name": "TERMO 940 ML ROSADO STOCK LIMITADO...",
+      "price": 57,
+      "description": "Un termo de 940 ml en color rosado, con stock limitado. Perfecto para llevar tus bebidas favoritas a cualquier lugar.",
+      "image": "https://acdn.mitiendanube.com/stores/001/544/093/products/9d19e1d8-931f-43bf-b599-8e92cd1818c91-f0fb446295ee5f843f16806302010889-240-0.jpg",
+      "brand": "Stanley",
+      "category": "Termos"
+    },
+    {
+      "name": "TERMO MATE SYSTEM 1,2 L. NEGRO - DORADO \"STOCK LIMITADO\"",
+      "price": 65,
+      "description": "Termo Mate System de 1.2 litros en colores negro y dorado, con stock limitado. Diseñado especialmente para los amantes del mate.",
+      "image": "https://acdn.mitiendanube.com/stores/001/459/198/products/20230127_1020041-3d2f6d76d64edf553016753418757314-1024-1024.jpg",
+      "brand": "Stanley",
+      "category": "Termos"
+    },
+    {
+      "name": "TERMO ADVENTURE 1,3 LITROS \"BLANCO - NEGRO - BORDO\"",
+      "price": 47,
+      "description": "Termo Adventure de 1.3 litros en colores blanco, negro y bordo. Ideal para tus aventuras y viajes.",
+      "image": "https://www.dianaoutdoor.com.ar/cdn/shop/files/47347-TERMO-STANLEY-ADVENTURE-TO-GO-1.3LT-CHARCOAL-02.jpg?v=1709045471",
+      "brand": "Stanley",
+      "category": "Termos"
+    },
 
     {
       "name": "IPHONE 11 64 GB NEGRO",
@@ -1042,6 +1130,367 @@
       "image": "https://acdn.mitiendanube.com/stores/443/907/products/infinix3-12212c01a1a58172a417173367306846-640-0.jpg",
       "brand": "INFINIX",
       "category": "SMARTPHONE"
+    },
+    {
+      "name": "PARTYBOX 1000",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 710,
+      "description": "",
+      "image": "https://www.manual.ar/thumbs/products/l/1128389-jbl-partybox-1000.webp"
+    },
+    {
+      "name": "PARTYBOX THE GO 100 WATTS",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 225,
+      "description": "",
+      "image": "https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwf9e1d0fa/JBL_PARTYBOX_OTG_SHOULDER_0080%20copy.png?sw=537&sfrm=png"
+    },
+    {
+      "name": "PARTYBOX 110  160 WATTS",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 270,
+      "description": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbkNE3a6voXN7ATZD2q45EmeYOw69-i5n3cw&s"
+    },
+    {
+      "name": "PARTYBOX 310 240 WATTS",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 460,
+      "description": "",
+      "image": "https://www.jbl.com.ar/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwaf3d5c8b/JBL_PartyBox_310_Hero_0176_x3.png"
+    },
+    {
+      "name": "PARTYBOX 710",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 485,
+      "description": "",
+      "image": "https://images.fravega.com/f500/91b0f047a297af6cc1659b51a3d0d42d.jpg"
+    },
+    {
+      "name": "PARTYBOX ENCORE ESSENTIAL 100 WATTS",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 230,
+      "description": "",
+      "image": "https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw4d8402df/JBL_PARTYBOX_ENCORE_ESSENTIAL_HERO_1605x1605px.png?sw=537&sfrm=png"
+    },
+    {
+      "name": "JBL PartyBox Ultimate",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 1120,
+      "description": "",
+      "image": "https://musicrangfull.com.ar/wp-content/uploads/2023/12/IMG-2649.png"
+    },
+    {
+      "name": "JBL PartyBox Stage 320",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 450,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "JBL PartyBox Club 120",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 345,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "GO 3. AZUL. ROJO. NEGRO ,, GRIS",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 32,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "GO 3 ROSADO",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 34,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "GO 4 NEGRO - AZUL - ROJO",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 40,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "CLIP 4 AZUL. VERDE. NEGRO - ROSADO",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 45,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "FLIP 6.. ROJO.  BLANCO . NEGRO. AZUL",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 88,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "CHARGE 5 AZUL - ROJO",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 117,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "CHARGE 5  NEGRO -",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 120,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "XTREME 3 NEGRO - AZUL  - CAMUFLADO",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 200,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "XTREME 4",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 305,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "BOOMBOX 3 NEGRO",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 320,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "BOOMBOX 3 CAMUFLADO",
+      "brand": "JBL",
+      "category": "Altavoces",
+      "price": 320,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "MICROFONO JBL  PACK *2",
+      "brand": "JBL",
+      "category": "Micrófonos",
+      "price": 90,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "AURICULAR JBL TUNE 510 BT",
+      "brand": "JBL",
+      "category": "Auriculares",
+      "price": 32,
+      "description": "",
+      "image": ""
+    },
+
+    {
+      "name": "PLAY 5 1TB SLIM CON LECTORA",
+      "brand": "PlayStation",
+      "category": "Consolas",
+      "price": 500,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "PLAY 5 1TB SLIM CON LECTORA + SPIDERMAN",
+      "brand": "PlayStation",
+      "category": "Consolas",
+      "price": 550,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "PLAY 5 1 TB SLIM  DIGITAL",
+      "brand": "PlayStation",
+      "category": "Consolas",
+      "price": 460,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "JUEGO DE PLAY 5 FIFA 24",
+      "brand": "PlayStation",
+      "category": "Juegos",
+      "price": 40,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "PLAY 4 1 TB +  JUEGO",
+      "brand": "PlayStation",
+      "category": "Consolas",
+      "price": 335,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "NINTENDO SWITCH OLED 64 GB",
+      "brand": "Nintendo",
+      "category": "Consolas",
+      "price": 275,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "JOYSTICK PS4",
+      "brand": "PlayStation",
+      "category": "Accesorios",
+      "price": 52,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "JOYSTICK PS5",
+      "brand": "PlayStation",
+      "category": "Accesorios",
+      "price": 63,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "RELOJ MIBRO WATCH A2 XPAW015",
+      "brand": "Mibro",
+      "category": "Relojes",
+      "price": 35,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "RELOJ HAYLOU LRS5 LS19",
+      "brand": "Haylou",
+      "category": "Relojes",
+      "price": 45,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "RELOJ HAYLOU WATCH 2 PRO",
+      "brand": "Haylou",
+      "category": "Relojes",
+      "price": 30,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "RELOJ HAYLOU SOLAR LITE",
+      "brand": "Haylou",
+      "category": "Relojes",
+      "price": 25,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "RELOJ HAYLOU SOLAR PRO 2 NEGRO 2 BLANCO",
+      "brand": "Haylou",
+      "category": "Relojes",
+      "price": 38,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "RELOJ HAYLOU SOLAR PLUS 2 NEGRO 2 BLANCO",
+      "brand": "Haylou",
+      "category": "Relojes",
+      "price": 38,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "AMAZON TV STICK 3RA GENERACION HD",
+      "brand": "Amazon",
+      "category": "TV Sticks",
+      "price": 40,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "XIOAMI TV STICK FULL HD",
+      "brand": "Xiaomi",
+      "category": "TV Sticks",
+      "price": 39,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "CHROMECAST 4K",
+      "brand": "Google",
+      "category": "TV Sticks",
+      "price": 53,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "CHROMECAST HD",
+      "brand": "Google",
+      "category": "TV Sticks",
+      "price": 40,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "XIAOMI TV BOX S",
+      "brand": "Xiaomi",
+      "category": "TV Boxes",
+      "price": 50,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "REPETIDOR DE SEÑAL WIFI XIAOMI RANGE EXTENDER PRO",
+      "brand": "Xiaomi",
+      "category": "Accesorios",
+      "price": 15,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "REPETIDOR DE SEÑAL TPLINK",
+      "brand": "TP-Link",
+      "category": "Accesorios",
+      "price": 16,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "CELULAR NOKIA CON TECLAS",
+      "brand": "Nokia",
+      "category": "Celulares",
+      "price": 15,
+      "description": "",
+      "image": ""
+    },
+    {
+      "name": "CELULAR NOKIA 6300 4G CON WHASSAP",
+      "brand": "Nokia",
+      "category": "Celulares",
+      "price": 32,
+      "description": "",
+      "image": ""
     }
   ]
 }
