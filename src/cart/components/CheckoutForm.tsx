@@ -32,7 +32,7 @@ export const CheckoutForm = () => {
 
   const navigate = useNavigate();
   const { clearCart, cartItems } = useContext(CartContext);
-  const { register, reset, formState: { errors }, handleSubmit } = useForm<CheckoutFormI>();
+  const { register, reset, formState: { errors }, handleSubmit, setValue } = useForm<CheckoutFormI>();
 
   const [selectedProvince, setSelectedProvince] = useState('');
   const [selectedCity, setSelectedCity] = useState('');
@@ -53,6 +53,7 @@ export const CheckoutForm = () => {
     setSelectedCity(city);
     const cityData = cities.find((c) => c.name === city);
     setPostalCode(cityData ? cityData.postalCode : '');
+    setValue('zip', cityData ? cityData.postalCode : '');
   };
 
   const onSubmit = (data: CheckoutFormI) => {
