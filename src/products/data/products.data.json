@@ -310,7 +310,7 @@
     },
     {
       "name": "A15. 4G. 6 RAM 128  GB",
-      "price": 116,
+      "price": 120,
       "description": "",
       "image": "https://www.cetrogar.com.ar/media/catalog/product/s/m/sm-a155_galaxy-a15-lte_light-blue_front.png?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds",
       "brand": "Samsung",
@@ -349,14 +349,6 @@
       "category": "Smartphones"
     },
     {
-      "name": "A34 5G..  6 RAM 128 GB",
-      "price": 230,
-      "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_680639-MLA54691106460_032023-O.webp",
-      "brand": "Samsung",
-      "category": "Smartphones"
-    },
-    {
       "name": "A35 5G 6 RAM 128  GB",
       "price": 250,
       "description": "",
@@ -390,7 +382,7 @@
     },
     {
       "name": "A54 5G 8 RAM 256  GB",
-      "price": 345,
+      "price": 350,
       "description": "",
       "image": "https://samsungarsmb.vtexassets.com/arquivos/ids/165543/SM-A546-Galaxy-A54-5-G-Awesome-Graphite-Front2-256-GB.jpg?v=638151977346200000",
       "brand": "Samsung",
@@ -406,20 +398,13 @@
     },
     {
       "name": "A55 5G 8 256 GB",
-      "price": 360,
+      "price": 370,
       "description": "",
       "image": "https://dcdn.mitiendanube.com/stores/001/301/921/products/1-3fc0fd3ace274079aa17144354919532-1024-1024.png",
       "brand": "Samsung",
       "category": "Smartphones"
     },
-    {
-      "name": "S23 FE 5G 8 - 128 GB",
-      "price": 420,
-      "description": "",
-      "image": "https://multipoint.com.ar/Image/0/750_750-c82.jpg",
-      "brand": "Samsung",
-      "category": "Smartphones"
-    },
+   
     {
       "name": "S23 FE 5G 8/256 GB",
       "price": 465,
@@ -454,7 +439,7 @@
     },
     {
       "name": "S24 PLUS 256 GB",
-      "price": 700,
+      "price": 770,
       "description": "",
       "image": "https://tiendaonline.movistar.com.ar/media/catalog/product/s/2/s24_-onyxblack-front.png",
       "brand": "Samsung",
@@ -511,7 +496,7 @@
     },
     {
       "name": "MOTO E13  64  GB",
-      "price": 73,
+      "price": 75,
       "description": "",
       "image": "https://www.casadelaudio.com/Image/0/750_750-156-MOR-602_(10).png",
       "brand": "Motorola",
@@ -599,7 +584,7 @@
     },
     {
       "name": "MOTO G54 8 256  GB",
-      "price": 157,
+      "price": 162,
       "description": "",
       "image": "https://http2.mlstatic.com/D_NQ_NP_748931-MLA76197175860_052024-O.webp",
       "brand": "Motorola",
@@ -621,22 +606,7 @@
       "brand": "Motorola",
       "category": "Smartphones"
     },
-    {
-      "name": "REDMI A2 2 32 GB",
-      "price": 70,
-      "description": "",
-      "image": "https://http2.mlstatic.com/D_Q_NP_901917-MLA72457386541_102023-O.webp",
-      "brand": "XIAOMI",
-      "category": "SMARTPHONE"
-    },
-    {
-      "name": "REDMI A2 3 64 GB",
-      "price": 73,
-      "description": "",
-      "image": "https://thumb.pccomponentes.com/w-530-530/articles/1077/10772964/1382-xiaomi-redmi-a2-3-64gb-negro-libre.jpg",
-      "brand": "XIAOMI",
-      "category": "SMARTPHONE"
-    },
+    
     {
       "name": "REDMI A3 3 / 64 GB",
       "price": 77,
@@ -711,7 +681,7 @@
     },
     {
       "name": "POCO C65 8 256 GB",
-      "price": 112,
+      "price": 123,
       "description": "",
       "image": "https://www.ventaconcretada.com/wp-content/uploads/2024/03/XIAOMI-POCO-C65.jpg",
       "brand": "XIAOMI",
@@ -767,7 +737,7 @@
     },
     {
       "name": "NOTE 13 PRO 5G 12 512 GB",
-      "price": 305,
+      "price": 320,
       "description": "",
       "image": "https://dcdn.mitiendanube.com/stores/001/388/250/products/img_20240207_142331-e395e669c4ade78d3217073274499840-640-0.jpg",
       "brand": "XIAOMI",
@@ -837,86 +807,7 @@
       "brand": "XIAOMI",
       "category": "TABLET"
     },
-    {
-      "name": "CARGADOR XIAOMI AD201EU 20 W",
-      "price": 12,
-      "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/443/907/products/20wmi-charger1-89547f258db7ab67b417157274867623-640-0.jpg",
-      "brand": "XIAOMI",
-      "category": "ACCESORIO"
-    },
-    {
-      "name": "XIAOMI SOUND OUTDOOR",
-      "price": 45,
-      "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/443/907/products/xiaomi-mi-outdoor-beed2272a801a8a98e17160633040750-640-0.jpg",
-      "brand": "XIAOMI",
-      "category": "ACCESORIO"
-    },
-    {
-      "name": "XIAOMI SOUND POCKET",
-      "price": 20,
-      "description": "",
-      "image": "https://nextcell.com.ar/wp-content/uploads/2024/06/123115-1.jpg",
-      "brand": "XIAOMI",
-      "category": "ACCESORIO"
-    },
-    {
-      "name": "REDMI SMART BAND 8 ACTIVE ROSADO Y NEGRO",
-      "price": 28,
-      "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/003/456/888/products/sin-titulo-2-4c161697f6cedddc5717056732820880-640-0.jpg",
-      "brand": "XIAOMI",
-      "category": "ACCESORIO"
-    },
-    {
-      "name": "RELOJ XIOAMI REDMI WATCH 3 ACTIVE BLANCO Y NEGRO",
-      "price": 37,
-      "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/001/531/943/products/redmi-watch-3-active_grey2-8250eec4314f4f64f517079274277305-1024-1024.jpg",
-      "brand": "XIAOMI",
-      "category": "ACCESORIO"
-    },
-    {
-      "name": "AURICULAR XIOAMI REDMI BUDS 4 LITE",
-      "price": 19,
-      "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/477/775/products/1yuguypoo90u1-e76df3b35ef637777116914411472130-1024-1024.jpg",
-      "brand": "XIAOMI",
-      "category": "ACCESORIO"
-    },
-    {
-      "name": "AURICULAR XIOAMI REDMI BUDS 5",
-      "price": 33,
-      "description": "",
-      "image": "https://i.blogs.es/a6263b/redmi-buds-5/1366_2000.jpeg",
-      "brand": "XIAOMI",
-      "category": "ACCESORIO"
-    },
-    {
-      "name": "AURICULAR XIOAMI REDMI BUDS 5 PRO",
-      "price": 56,
-      "description": "",
-      "image": "https://http2.mlstatic.com/D_NQ_NP_889951-MLU73880912069_012024-O.webp",
-      "brand": "XIAOMI",
-      "category": "ACCESORIO"
-    },
-    {
-      "name": "CARGADOR INALAMBRICO XIOAMI",
-      "price": 17,
-      "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/477/775/products/cargador-inalambrico-xiaomi-10w1-4fc2acd2ea88070a6c16624963513213-640-0.jpg",
-      "brand": "XIAOMI",
-      "category": "ACCESORIO"
-    },
-    {
-      "name": "CABLE USD A TIPO XIOAMI ORIGINAL",
-      "price": 6,
-      "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/477/775/products/cable-xiaomi-redmi-4x-micro-usb-original-11-02efc52fb9c89eb89415745472304625-1024-1024.jpg",
-      "brand": "XIAOMI",
-      "category": "ACCESORIO"
-    },
+    
     {
       "name": "REALME NOTE 50 . 3 64 GB",
       "price": 78,

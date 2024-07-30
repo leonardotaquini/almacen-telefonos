@@ -222,6 +222,20 @@ export const CheckoutForm = () => {
               </select>
               {errors.pay_method && <span className="text-red-500">El método de pago es requerido</span>}
             </div>
+                <div>
+              <label className="font-medium">¿Quién te recomendó la tienda?</label>
+              <select 
+                  className='w-full mt-2 px-3 py-2 text-gray-500 bg-transparent outline-none border focus:border-indigo-600 shadow-sm rounded-lg'
+                  {...register('seller', { required: true })}
+                  >
+                  <option value="">Selecciona una opción</option>
+                  <option value="Carolina">Carolina</option>
+                  <option value="Jessica">Jessica</option>
+                  <option value="Ninguna">Otro</option>
+              </select>
+              {errors.seller && <span className="text-red-500">Este campo es requerido</span>}
+                </div>
+
             <Link to='/cart'>
               <button className="w-full px-4 py-2 mt-4 text-white font-medium bg-zinc-900 hover:bg-zinc-700 active:bg-indigo-600 rounded-lg duration-150">
                 Volver al carrito

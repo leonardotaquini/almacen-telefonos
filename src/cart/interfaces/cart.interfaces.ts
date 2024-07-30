@@ -38,4 +38,5 @@ export interface CheckoutFormI {
   dni: string;
   zip: string;
   pay_method: string;
+  seller:string;
 }
