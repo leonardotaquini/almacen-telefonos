@@ -6,6 +6,7 @@ import { Navbar } from "../components/Navbar";
 import { NavbarUI } from "../../ui/components/NavbarUI";
 import { ShoppingCart } from "../../cart/components/Cart";
 import { Spinner } from "../../ui/components/Spinner";
+import { Whatsapp } from "../../ui/components/Whatsapp";
 
 export const ProductsPage = () => {
   const { products, isLoading } = useContext(ProductContext);
@@ -123,6 +124,7 @@ export const ProductsPage = () => {
               <MdNavigateNext />
             </button>
           </div>
+          <Whatsapp />
           <ShoppingCart />
         </div>
       )}

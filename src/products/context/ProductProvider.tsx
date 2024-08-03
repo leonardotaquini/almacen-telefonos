@@ -58,7 +58,7 @@ export const ProductProvider = ({ children }: ProductProviderProps) => {
 
   const getAllProducts = () => {
     const products = productsJson.productos.map((product: any, i: number) => {
-      const prod = { ...product, price: (product.price * realPrice)*1.4 };
+      const prod = { ...product, price: (product.price * realPrice)*1.35 };
       return {
         id: i.toString(),
         ...prod,

@@ -1,5 +1,5 @@
 import { Product } from "../interfaces/product.interfaces";
-import ProductImage from "../../assets/card-image.jpeg";
+import ProductImage from "../../assets/generic-phone.jpg";
 import { useContext } from "react";
 import { CartContext } from "../../cart/context/CartContext";
 
