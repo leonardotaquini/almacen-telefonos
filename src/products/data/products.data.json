@@ -302,7 +302,7 @@
 
     {
       "name": "A15. 4G. 4 RAM 128  GB",
-      "price": 112,
+      "price": 115,
       "description": "",
       "image": "https://www.cetrogar.com.ar/media/catalog/product/s/m/sm-a155_galaxy-a15-lte_light-blue_front.png?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds",
       "brand": "Samsung",
@@ -310,28 +310,29 @@
     },
     {
       "name": "A15. 4G. 6 RAM 128  GB",
-      "price": 120,
+      "price": 121,
       "description": "",
       "image": "https://www.cetrogar.com.ar/media/catalog/product/s/m/sm-a155_galaxy-a15-lte_light-blue_front.png?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "A15. 5G. 6 RAM 128  GB",
+      "name": "A15. 4G. 8 RAM 256  GB",
+      "price": 150,
+      "description": "",
+      "image": "https://www.cetrogar.com.ar/media/catalog/product/s/m/sm-a155_galaxy-a15-lte_light-blue_front.png?width=500&height=500&canvas=500,500&quality=80&bg-color=255,255,255&fit=bounds",
+      "brand": "Samsung",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A15. 5G. 4 RAM 128  GB",
       "price": 127,
       "description": "",
       "image": "https://acdn.mitiendanube.com/stores/001/097/819/products/samsung-a15-0077edb63afdb4413317110423252390-1024-1024.jpg",
       "brand": "Samsung",
       "category": "Smartphones"
     },
-    {
-      "name": "A15. 5G. 8 RAM 256  GB",
-      "price": 165,
-      "description": "",
-      "image": "https://acdn.mitiendanube.com/stores/001/395/398/products/whatsapp-image-2024-06-08-at-11-27-35-9580a2b6edd27daff617178584146367-1024-1024.jpeg",
-      "brand": "Samsung",
-      "category": "Smartphones"
-    },
+   
     {
       "name": "A25 5G  6 RAM 128 GB",
       "price": 175,
@@ -350,7 +351,7 @@
     },
     {
       "name": "A35 5G 6 RAM 128  GB",
-      "price": 250,
+      "price": 218,
       "description": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSanQQsjRvjfb-0vIJFHfDfnQ2R-R3mXu7pgw&s",
       "brand": "Samsung",
@@ -366,7 +367,7 @@
     },
     {
       "name": "A35 5G 8 RAM 256 GB",
-      "price": 300,
+      "price": 290,
       "description": "",
       "image": "https://www.ventaconcretada.com/wp-content/uploads/2024/04/A55-copia-a.jpg",
       "brand": "Samsung",
@@ -390,7 +391,7 @@
     },
     {
       "name": "A55 5G 8 128 GB",
-      "price": 315,
+      "price": 300,
       "description": "",
       "image": "https://dcdn.mitiendanube.com/stores/001/301/921/products/1-3fc0fd3ace274079aa17144354919532-1024-1024.png",
       "brand": "Samsung",
@@ -398,7 +399,7 @@
     },
     {
       "name": "A55 5G 8 256 GB",
-      "price": 370,
+      "price": 350,
       "description": "",
       "image": "https://dcdn.mitiendanube.com/stores/001/301/921/products/1-3fc0fd3ace274079aa17144354919532-1024-1024.png",
       "brand": "Samsung",
@@ -415,14 +416,14 @@
     },
     {
       "name": "S23 ULTRA 12 256  GB",
-      "price": 835,
+      "price": 800,
       "description": "",
       "image": "https://www.sagitariodigital.com.ar/wp-content/uploads/2023/04/s23-ultra-2-1.png",
       "brand": "Samsung",
       "category": "Smartphones"
     },
     {
-      "name": "S24 128  GB",
+      "name": "S24 128 GB",
       "price": 630,
       "description": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG7Mc9QUodotpqQetLtl2Qba_J8sN2E4yIqQ&s",
@@ -430,7 +431,7 @@
       "category": "Smartphones"
     },
     {
-      "name": "S24 256  GB",
+      "name": "S24 256 GB",
       "price": 685,
       "description": "",
       "image": "https://www.ventaconcretada.com/wp-content/uploads/2024/04/S24-256GB.jpg",
@@ -447,7 +448,7 @@
     },
     {
       "name": "S24 ULTRA 256 GB",
-      "price": 980,
+      "price": 920,
       "description": "",
       "image": "https://nextgames.com.ar/img/Public/1040/3989-producto-samsung-galaxy.jpg",
       "brand": "Samsung",
@@ -455,7 +456,7 @@
     },
     {
       "name": "S24 ULTRA 512 GB",
-      "price": 1100,
+      "price": 1040,
       "description": "",
       "image": "https://dcdn.mitiendanube.com/stores/001/555/911/products/s24-ultra-gris-fa87a0fdb450fa63ac17148689933448-1024-1024.jpg",
       "brand": "Samsung",
@@ -510,14 +511,7 @@
       "brand": "Motorola",
       "category": "Smartphones"
     },
-    {
-      "name": "MOTO E22 4 64 GB",
-      "price": 81,
-      "description": "",
-      "image": "https://images.fravega.com/f500/e1b504013ee779f3c97493e6b8cdcfa7.png",
-      "brand": "Motorola",
-      "category": "Smartphones"
-    },
+
     {
       "name": "MOTO G04 4/64  GB",
       "price": 85,
@@ -527,8 +521,16 @@
       "category": "Smartphones"
     },
     {
+      "name": "MOTO G04 4/128  GB",
+      "price": 95,
+      "description": "",
+      "image": "https://images.fravega.com/f500/c532b882ff9e9b4ea511dca0f229e900.png",
+      "brand": "Motorola",
+      "category": "Smartphones"
+    },
+    {
       "name": "MOTO G04 8- 128  GB",
-      "price": 97,
+      "price": 105,
       "description": "",
       "image": "https://multitecno.com.ar/sistema/fotos/productos/00002142_00002142_G_17169039246655dff46b715.jpg",
       "brand": "Motorola",
@@ -551,7 +553,7 @@
       "category": "Smartphones"
     },
     {
-      "name": "MOTO G23 4 128  GB",
+      "name": "MOTO G23 4 128 GB",
       "price": 102,
       "description": "",
       "image": "https://www.ventaconcretada.com/wp-content/uploads/2023/05/MOTO-G23.jpg",
@@ -567,8 +569,16 @@
       "category": "Smartphones"
     },
     {
+      "name": "MOTO G24 4 128 GB",
+      "price": 105,
+      "description": "",
+      "image": "https://images.fravega.com/f500/8a12da2519ab0a2e11ccba22079f4103.jpg",
+      "brand": "Motorola",
+      "category": "Smartphones"
+    },
+    {
       "name": "MOTO G24 8 128 GB",
-      "price": 118,
+      "price": 120,
       "description": "",
       "image": "https://images.fravega.com/f500/8a12da2519ab0a2e11ccba22079f4103.jpg",
       "brand": "Motorola",
@@ -576,7 +586,7 @@
     },
     {
       "name": "MOTO G14 8 256 GB",
-      "price": 130,
+      "price": 120,
       "description": "",
       "image": "https://d28hi93gr697ol.cloudfront.net/9ef84dda-32dd-4016-7da3-1c0a824fffb4/img/Producto/5157516e-bc26-4dcd-902b-ae98f7ad5e01/Diseno-sin-titulo-2024-06-26T151012-960-667c6b22c18ca-O.png",
       "brand": "Motorola",
@@ -599,10 +609,26 @@
       "category": "Smartphones"
     },
     {
-      "name": "MOTO G84 5G 8 256  GB",
+      "name": "MOTO G84 5G 8 256 GB",
       "price": 198,
       "description": "",
       "image": "https://d22fxaf9t8d39k.cloudfront.net/f0a8b6bd7390c8bcbf822d9b8527233849a8484ac194fe06ce88c43055043db3134779.jpg",
+      "brand": "Motorola",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G85 5G 12 512 GB",
+      "price": 255,
+      "description": "",
+      "image": "https://d28hi93gr697ol.cloudfront.net/9ef84dda-32dd-4016-7da3-1c0a824fffb4/img/Producto/5eb3f0d5-b418-ad77-acf7-90ed4be50e74/Motorola-Moto-G85-66bd016c3d0dd-O.png",
+      "brand": "Motorola",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO EDGE-40 NEO 5G 8 256 GB",
+      "price": 260,
+      "description": "",
+      "image": "https://images.fravega.com/f500/90d3da92107aeddbf3faa5c21f99cba3.jpg",
       "brand": "Motorola",
       "category": "Smartphones"
     },
@@ -633,7 +659,7 @@
     },
     {
       "name": "REDMI 12C 3 64 GB",
-      "price": 83,
+      "price": 80,
       "description": "",
       "image": "https://http2.mlstatic.com/D_NQ_NP_804635-MLA69116436082_042023-O.webp",
       "brand": "XIAOMI",
@@ -641,7 +667,7 @@
     },
     {
       "name": "REDMI 13C 4 128 GB -",
-      "price": 100,
+      "price": 101,
       "description": "",
       "image": "https://www.ventaconcretada.com/wp-content/uploads/2024/01/REDMI-13C-1.jpg",
       "brand": "XIAOMI",
@@ -649,7 +675,7 @@
     },
     {
       "name": "REDMI 13C 4 256 GB",
-      "price": 114,
+      "price": 110,
       "description": "",
       "image": "https://www.ventaconcretada.com/wp-content/uploads/2024/06/redmi13c2564ram.jpg",
       "brand": "XIAOMI",
@@ -681,7 +707,7 @@
     },
     {
       "name": "POCO C65 8 256 GB",
-      "price": 123,
+      "price": 125,
       "description": "",
       "image": "https://www.ventaconcretada.com/wp-content/uploads/2024/03/XIAOMI-POCO-C65.jpg",
       "brand": "XIAOMI",
@@ -697,7 +723,7 @@
     },
     {
       "name": "NOTE 13 8 128 GB",
-      "price": 148,
+      "price": 140,
       "description": "",
       "image": "https://cdn-xiaomi.waugi.com.ar/3106-thickbox_default/redmi-note-13.jpg",
       "brand": "XIAOMI",
@@ -713,7 +739,7 @@
     },
     {
       "name": "NOTE 13 PRO 4G. 8 256 GB",
-      "price": 215,
+      "price": 210,
       "description": "",
       "image": "https://happyphonevzla.com/cdn/shop/files/redmi_note_13_pro_4g.png?v=1711579078",
       "brand": "XIAOMI",
@@ -753,7 +779,7 @@
     },
     {
       "name": "NOTE 13 PRO PLUS 5G. 12 512 GB",
-      "price": 370,
+      "price": 360,
       "description": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKbl59yrJWruYyUJ5zTbqlCw0131819PHDoQ&s",
       "brand": "XIAOMI",
@@ -793,7 +819,7 @@
     },
     {
       "name": "POCO F6 PRO 5G 12 512 GB",
-      "price": 505,
+      "price": 480,
       "description": "",
       "image": "https://acdn.mitiendanube.com/stores/443/907/products/pocof6pro1-ce01bb15890078e4c817173354542745-640-0.jpg",
       "brand": "XIAOMI",
