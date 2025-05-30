@@ -7,6 +7,14 @@ const tabItems = [
   "Apple",
   "Motorola",
   "Xiaomi",
+  "Redmi",
+  "Infinix",
+  "Itel",
+  "Tecno Spark",
+  "Realme",
+  "Oppo",
+  "Honor"
+
 ];
 
 export const Navbar = () => {

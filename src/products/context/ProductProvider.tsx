@@ -2,7 +2,7 @@ import { useEffect, useReducer, useState } from "react";
 import { ProductContext } from "./ProductContext";
 import { Product, ProductState } from '../interfaces/product.interfaces';
 import { ProductReducer } from "./ProductReducer";
-import productsJson from "../data/products.data.json";
+import productsJson from "../data/updated_products_with_brands.json";
 import { getDolarPrice } from '../../cart/helpers/divisaConvert';
 
 interface ProductProviderProps {

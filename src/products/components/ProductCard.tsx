@@ -53,8 +53,10 @@ export const ProductCard = ({ product }: ProductCardProps) => {
             ${formatPrice(product.price)}
           </span>
           <button className="bg-indigo-200 rounded-lg  p-3 text-xs font-semibold text-zinc-800 hover:bg-green-300 hover:text-gray-900 uppercase"
-                  onClick={ ()=> handleAddToCart(product) }>
-              Agregar al carrito
+                  onClick={ ()=> handleAddToCart(product) } disabled={product.price <= 0}>
+              { 
+                product.price > 0 ? "Agregar al carrito" : "Sin stock"
+              }
           </button>
         </div>
         <div className="flex space-x-3">

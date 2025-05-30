@@ -1,0 +1,1812 @@
+{
+  "productos": [
+    {
+      "name": "IPHONE 11 128 GB - NEGRO",
+      "price": 425.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_656548-MLA46114829749_052021-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 13 128 GB AZUL",
+      "price": 0.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_795127-MLU77719747195_072024-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 13 128 GB VERDE",
+      "price": 0.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_736376-MLA49590060561_042022-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 13 128 GB ROSADO",
+      "price": 0.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_654080-MLA47781882564_102021-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 13 128 GB BLANCO",
+      "price": 505.0,
+      "description": "",
+      "image": "https://acdn.mitiendanube.com/stores/004/225/021/products/3431764_1_1-72fc9843be363bc2fc17111302046889-1024-1024.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 13 128 GB NEGRO",
+      "price": 505.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_633038-MLU75011517373_032024-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 14 128 GB BLANCO.",
+      "price": 595.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_918579-MLM51559384401_092022-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 14 128 GB NEGRO",
+      "price": 595.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_651710-MLM51559386433_092022-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 14 128 GB LILA",
+      "price": 595.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_786356-MLM51559385272_092022-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 14 128 GB  AZUL",
+      "price": 595.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_864844-MLM51559388062_092022-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 15 128 GB ROSADO",
+      "price": 700.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_958009-MLA71782868134_092023-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 15 128 GB NEGRO",
+      "price": 700.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_Q_NP_779617-MLA71782867320_092023-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 15 128 GB AZUL",
+      "price": 700.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_759471-MLA71782897602_092023-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 15 128 GB VERDE",
+      "price": 700.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_767731-MLA71782898424_092023-O.webp",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A55 5G 8 128 GB",
+      "price": 330.0,
+      "description": "",
+      "image": "https://dcdn.mitiendanube.com/stores/001/301/921/products/1-3fc0fd3ace274079aa17144354919532-1024-1024.png",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A55 5G 8 256 GB",
+      "price": 355.0,
+      "description": "",
+      "image": "https://dcdn.mitiendanube.com/stores/001/301/921/products/1-3fc0fd3ace274079aa17144354919532-1024-1024.png",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S23 ULTRA 12 256  GB",
+      "price": 800.0,
+      "description": "",
+      "image": "https://www.sagitariodigital.com.ar/wp-content/uploads/2023/04/s23-ultra-2-1.png",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S24 PLUS 256 GB",
+      "price": 697.0,
+      "description": "",
+      "image": "https://tiendaonline.movistar.com.ar/media/catalog/product/s/2/s24_-onyxblack-front.png",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S24 ULTRA 256 GB",
+      "price": 870.0,
+      "description": "",
+      "image": "https://nextgames.com.ar/img/Public/1040/3989-producto-samsung-galaxy.jpg",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S24 ULTRA 512 GB",
+      "price": 950.0,
+      "description": "",
+      "image": "https://dcdn.mitiendanube.com/stores/001/555/911/products/s24-ultra-gris-fa87a0fdb450fa63ac17148689933448-1024-1024.jpg",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G04 4/64  GB",
+      "price": 74.0,
+      "description": "",
+      "image": "https://images.fravega.com/f500/c532b882ff9e9b4ea511dca0f229e900.png",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G14 4 128 GB",
+      "price": 95.0,
+      "description": "",
+      "image": "https://dcdn.mitiendanube.com/stores/001/604/382/products/moto-g14-29d9183706b288549617049987549264-1024-1024.png",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G24 8 128 GB",
+      "price": 99.0,
+      "description": "",
+      "image": "https://images.fravega.com/f500/8a12da2519ab0a2e11ccba22079f4103.jpg",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G54 8 256  GB",
+      "price": 155.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_748931-MLA76197175860_052024-O.webp",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI A3 3 / 64 GB",
+      "price": 65.0,
+      "description": "",
+      "image": "https://d22fxaf9t8d39k.cloudfront.net/6042707e5ef438f77ed4c69fc3ff1ec8f440de9fbb2ec751f934142e6bd8e408137747.png",
+      "brand": "REDMI",
+      "category": "SMARTPHONE"
+    },
+    {
+      "name": "NOTE 13 PRO PLUS 5G. 8 256 GB",
+      "price": 285.0,
+      "description": "",
+      "image": "https://www.cordobadigital.net/wp-content/uploads/2024/04/Redmi-Note-13-Pro-Plus.png",
+      "brand": "",
+      "category": "SMARTPHONE"
+    },
+    {
+      "name": "NOTE 13 PRO PLUS 5G. 12 512 GB",
+      "price": 330.0,
+      "description": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKbl59yrJWruYyUJ5zTbqlCw0131819PHDoQ&s",
+      "brand": "",
+      "category": "SMARTPHONE"
+    },
+    {
+      "name": "POCO M6 PRO 8/256 GB",
+      "price": 160.0,
+      "description": "",
+      "image": "https://dcdn.mitiendanube.com/stores/001/388/250/products/img_20240217_124048-d890828c21d2079d6417081846483674-640-0.jpg",
+      "brand": "POCO",
+      "category": "SMARTPHONE"
+    },
+    {
+      "name": "POCO M6 PRO 12/512 GB",
+      "price": 200.0,
+      "description": "",
+      "image": "https://www.sagitariodigital.com.ar/wp-content/uploads/2023/04/M6-PRO.jpg",
+      "brand": "POCO",
+      "category": "SMARTPHONE"
+    },
+    {
+      "name": "POCO X6 PRO 5G. 12 512 GB",
+      "price": 270.0,
+      "description": "",
+      "image": "https://www.sagitariodigital.com.ar/wp-content/uploads/2023/04/X6PRO-5G-1.jpg",
+      "brand": "POCO",
+      "category": "SMARTPHONE"
+    },
+    {
+      "name": "REALME NOTE 50 . 3 64 GB",
+      "price": 69.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_721793-MLA76720837716_062024-O.webp",
+      "brand": "REALME",
+      "category": "SMARTPHONE"
+    },
+    {
+      "name": "TECNO SPARK 20 PRO + 8 256 GB",
+      "price": 195.0,
+      "description": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_967030-MLA75913674860_042024-O.webp",
+      "brand": "TECNO SPARK",
+      "category": "SMARTPHONE"
+    },
+    {
+      "name": "IPHONE 11 64 GB - NEGRO",
+      "price": 350.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 11 128 GB - CPO -",
+      "price": 400.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 11 256 GB - CPO -",
+      "price": 425.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 12 64  GB - NEGRO",
+      "price": 415.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 12 64 GB - BLANCO",
+      "price": 415.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 12 64 GB - LILA",
+      "price": 400.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 12 64 GB - VERDE",
+      "price": 400.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 12 64 GB - ROJO",
+      "price": 400.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 12 128 GB - LILA",
+      "price": 480.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 12 128 GB - VERDE",
+      "price": 480.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 13 256 GB NEGRO - BLANCO",
+      "price": 690.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 14 256 GB - NEGRO",
+      "price": 710.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 14 256 GB - BLANCO",
+      "price": 710.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 15 256 GB  -",
+      "price": 840.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16E 128 GB - BLANCO",
+      "price": 590.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16E 128 GB - NEGRO",
+      "price": 590.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16E 256 GB.",
+      "price": 670.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 128  GB  - ROSADO",
+      "price": 795.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 128  GB - VERDE",
+      "price": 795.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 128  GB - NEGRO",
+      "price": 795.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 128  GB - BLANCO",
+      "price": 795.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 - 128  GB - AZUL",
+      "price": 795.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 - 256 GB -----",
+      "price": 908.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO 128  GB - DORADO \"DESERT TITANIUM",
+      "price": 980.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO 128  GB - BLANCO",
+      "price": 980.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO 128  GB - NATURAL",
+      "price": 980.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO 128  GB - NEGRO",
+      "price": 980.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO 256  GB- DORADO \"DESERT TITANIUM",
+      "price": 1080.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO 256  GB- BLANCO",
+      "price": 1080.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO 256  GB- NATURAL",
+      "price": 1080.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO 256  GB- NEGRO",
+      "price": 1080.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO MAX 256  GB - DORADO \"DESERT TITANIUM",
+      "price": 1170.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO MAX 256  GB - BLANCO",
+      "price": 1170.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO MAX 256  GB - NATURAL",
+      "price": 1170.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO MAX 256  GB - NEGRO",
+      "price": 1170.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPHONE 16 PRO MAX 512  GB",
+      "price": 1450.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "Apple Macbook Air A2337 MGN63LL (2020) de 13.3\" M1 8GB Ram/256GB SSD -",
+      "price": 685.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "Apple Macbook Air A3114 MRYR3LL (2024) de 15.3\" M3 8GB Ram/256GB SSD",
+      "price": 1200.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "APPLE WATCH SE 40 MM",
+      "price": 241.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "APPLE WATCH SE 44 MM",
+      "price": 253.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "APPLE WATCH S10 46MM",
+      "price": 380.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "APPLE PENCIL 2 TH",
+      "price": 110.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPAD 9 TH 2021 64 GB 10,2\"",
+      "price": 300.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPAD 9 TH 2021 256 GB 10,2\"",
+      "price": 390.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPAD 10 TH 2022 64 GB 10,9\" - AZUL  Y ROSADO",
+      "price": 350.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "IPAD 10 TH 2022 256 GB 10,9\" - AZUL",
+      "price": 435.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "VIDRIO PARA IPAD 10 TH 10,9\"",
+      "price": 6.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "VIDRIO PARA IPAD 9TH 10,2\"",
+      "price": 6.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "FUNDA + Teclado Magnético para iPad 10 de 10.9\" 4life FL109360CTDG - AZUL OSCURO",
+      "price": 40.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "FUNDA + Teclado Magnético para iPad 10 de 10.9\" 4life FL109360CTDG - ROSA",
+      "price": 40.0,
+      "description": "",
+      "image": "",
+      "brand": "APPLE",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A05 4 64  GB",
+      "price": 74.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A05 4 128  GB",
+      "price": 85.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A05S 4 128  GB",
+      "price": 110.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A06 64  GB",
+      "price": 83.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A06 128  GB",
+      "price": 90.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A15. 4G.  4 128  GB",
+      "price": 128.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A16 4G 4 128  GB",
+      "price": 128.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A16 4G 6 128  GB",
+      "price": 134.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A16 5G 6 128  GB",
+      "price": 162.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A16 4G 8 256  GB",
+      "price": 180.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A16 5G 8 256  GB",
+      "price": 205.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A25 5G  6 128 GB",
+      "price": 0.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A35 5G 8 128 GB",
+      "price": 260.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A35 5G 8 256 GB",
+      "price": 288.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A26 5G - 6 / 128  GB",
+      "price": 226.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A26 5G - 8 / 256  GB",
+      "price": 237.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A36 5G 6/128 GB",
+      "price": 265.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A36 5G 8/128 GB",
+      "price": 276.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A36 5G 8/256 GB",
+      "price": 305.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "M55 5G - 8 / 256  GB",
+      "price": 260.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A56 5G 8/128 GB",
+      "price": 370.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A56 5G 8 / 256  GB",
+      "price": 385.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "A56 5G 12/256 GB",
+      "price": 410.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S24 FE 5G 8 - 256 GB",
+      "price": 490.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S24 256  GB",
+      "price": 590.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S25 12 / 128  GB",
+      "price": 630.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S25 12 / 256  GB ---",
+      "price": 700.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S25 PLUS  12 / 256 GB.",
+      "price": 840.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S25 ULTRA 12 / 256  GB -----",
+      "price": 1020.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "S25 ULTRA 12 / 512  GB -----",
+      "price": 1125.0,
+      "description": "",
+      "image": "",
+      "brand": "SAMSUNG",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO E14 - 64  GB",
+      "price": 69.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G04S 4 / 64 GB",
+      "price": 74.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G04S \"4 / 128 GB\"",
+      "price": 84.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G04S 4 256  GB",
+      "price": 100.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G05 - 4 / 128  GB",
+      "price": 95.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G15 - 4G - 4 / 256  GB",
+      "price": 122.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G24 4 128  GB",
+      "price": 93.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G24 POWER 8 256  GB",
+      "price": 129.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G35 - 5G - 4 / 128  GB",
+      "price": 115.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G35 - 5G - 8 / 256  GB",
+      "price": 138.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G54 POWER - 8/256 GB",
+      "price": 160.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G54 POWER - \"12/256 GB\"",
+      "price": 170.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G55 - 5G - 8 / 256  GB ---",
+      "price": 155.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G84 5G 8 256  GB",
+      "price": 168.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G75.. 5G.. - 8 / 256  GB",
+      "price": 211.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G85 ---- 8 256 GB",
+      "price": 221.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO G85 5G ----- 12 / 256  GB",
+      "price": 235.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO MOTO EDGE 40 NEO  5G --- 12/256 GB",
+      "price": 228.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO EDGE 50 FUSION 8 / 256  GB",
+      "price": 245.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO EDGE 50 FUSION 12 512 GB",
+      "price": 289.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO EDGE 50 NEO - 5G - 12 / 512  GB",
+      "price": 297.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "MOTO EDGE 50 PRO 5G - 12 / 512  GB",
+      "price": 405.0,
+      "description": "",
+      "image": "",
+      "brand": "MOTOROLA",
+      "category": "Smartphones"
+    },
+    {
+      "name": "HONOR X5B 4 / 128  GB",
+      "price": 84.0,
+      "description": "",
+      "image": "",
+      "brand": "HONOR",
+      "category": "Smartphones"
+    },
+    {
+      "name": "HONOR X5B PLUS 4 / 256  GB",
+      "price": 90.0,
+      "description": "",
+      "image": "",
+      "brand": "HONOR",
+      "category": "Smartphones"
+    },
+    {
+      "name": "HONOR X7C 8 / 256  GB",
+      "price": 163.0,
+      "description": "",
+      "image": "",
+      "brand": "HONOR",
+      "category": "Smartphones"
+    },
+    {
+      "name": "OPPO A20 - 4G - 4 / 128  GB",
+      "price": 105.0,
+      "description": "",
+      "image": "",
+      "brand": "OPPO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "OPPO A60 - 4G - 8 / 256   GB",
+      "price": 170.0,
+      "description": "",
+      "image": "",
+      "brand": "OPPO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI A3 4 / 128  GB",
+      "price": 78.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI A3X --- 3 / 64  GB",
+      "price": 65.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI A3X 4 / 128  GB",
+      "price": 78.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI A3 PRO 4G - 4 / 128  GB",
+      "price": 95.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI A5 - 3 / 64  GB",
+      "price": 65.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI A5 - 4 / 128  GB",
+      "price": 83.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI 13C 8 256  GB",
+      "price": 0.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI 14C 4 128  GB",
+      "price": 88.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI 14C 4 256  GB",
+      "price": 95.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI 14C 6 128  GB",
+      "price": 100.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REDMI 14C 8 256  GB",
+      "price": 112.0,
+      "description": "",
+      "image": "",
+      "brand": "REDMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO C71 4G - 3 / 64  GB",
+      "price": 63.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO C71 4G - 4 / 128  GB",
+      "price": 78.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO C75 6 128 GB",
+      "price": 89.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO C75 8 256 GB",
+      "price": 106.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 13 4G - 6 128 GB",
+      "price": 130.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 13 4G - 8 / 512 GB",
+      "price": 165.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 13 PRO 5G 8 256  GB",
+      "price": 240.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 13 PRO 5G 12 512  GB",
+      "price": 270.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 14 - 6/128 GB",
+      "price": 139.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 14 - 8/256 GB",
+      "price": 163.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 14 \"5G\" - 8/256 GB",
+      "price": 201.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 14 PRO 4G - 8 / 256 GB",
+      "price": 220.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 14 PRO 4G 12 512 GB",
+      "price": 285.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 14 PRO 5G - 8 / 256 GB.",
+      "price": 250.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 14 PRO 5G - 12 / 512 GB.",
+      "price": 307.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 14 PRO PLUS 5G - 8 / 256 GB",
+      "price": 307.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "NOTE 14 PRO PLUS 5G - 12 / 512  GB",
+      "price": 365.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO M6 6/128 GB",
+      "price": 0.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO M6 8/256 GB",
+      "price": 0.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO M7 PRO 5G 8/256 GB",
+      "price": 184.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO M7 PRO 5G 12/256 GB",
+      "price": 200.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO X6 5G  .. 8 / 256 GB",
+      "price": 0.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO X6 5G ---- 12 / 256  GB",
+      "price": 0.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO X6 PRO 5G 8 256  GB",
+      "price": 257.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO X7 5G - 8 / 256 ---",
+      "price": 232.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO X7 5G - 12 / 512 ---",
+      "price": 260.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO X7 PRO  5G - 8 / 256  GB",
+      "price": 285.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO X7 PRO 5G - 12/256 GB",
+      "price": 310.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO X7 PRO 5G ------ 12/512 GB",
+      "price": 335.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO X7 PRO 5G ------ 12/512 GB - EDICION IRON MAN",
+      "price": 530.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO F6 PRO 12 512  GB",
+      "price": 412.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO F7 PRO 5G - 12 / 512 GB",
+      "price": 485.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "POCO F7 ULTRA - 5G - 16 / 512  GB \"SOBRE PEDIDO\"",
+      "price": 690.0,
+      "description": "",
+      "image": "",
+      "brand": "POCO",
+      "category": "Smartphones"
+    },
+    {
+      "name": "Xiaomi 14T 5G - 12 / 512 GB..",
+      "price": 485.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "XIAOMI 14T PRO 5G - 12 / 512  GB",
+      "price": 570.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "Xiaomi 15 Ultra 5G - 16 / 512 GB  \"SOBRE PEDIDO\"",
+      "price": 1400.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "KIT DE LLAVES DE PRECISION XIAOMI",
+      "price": 15.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "COMPRESOR DE AIRE XIAOMI 2 PRO",
+      "price": 60.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "XIAOMI SOUND OUTDOOR",
+      "price": 45.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "XIAOMI SOUND POCKET",
+      "price": 20.0,
+      "description": "",
+      "image": "",
+      "brand": "XIAOMI",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REALME  NOTE 50.  4 128 gb",
+      "price": 83.0,
+      "description": "",
+      "image": "",
+      "brand": "REALME",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REALME NOTE 50 - 4 256  GB",
+      "price": 101.0,
+      "description": "",
+      "image": "",
+      "brand": "REALME",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REALME NOTE 60X - 3 / 64 GB",
+      "price": 71.0,
+      "description": "",
+      "image": "",
+      "brand": "REALME",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REALME NOTE 60X - 4 / 128  GB",
+      "price": 75.0,
+      "description": "",
+      "image": "",
+      "brand": "REALME",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REALME NOTE 60 - 4 / 128  GB",
+      "price": 83.0,
+      "description": "",
+      "image": "",
+      "brand": "REALME",
+      "category": "Smartphones"
+    },
+    {
+      "name": "REALME C75 4G - 8 / 256  GB",
+      "price": 168.0,
+      "description": "",
+      "image": "",
+      "brand": "REALME",
+      "category": "Smartphones"
+    },
+    {
+      "name": "TECNO SPARK 20 KJ5 8 256  GB",
+      "price": 115.0,
+      "description": "",
+      "image": "",
+      "brand": "TECNO SPARK",
+      "category": "Smartphones"
+    },
+    {
+      "name": "TECNO SPARK 30C - KL5- 4 / 128  GB",
+      "price": 90.0,
+      "description": "",
+      "image": "",
+      "brand": "TECNO SPARK",
+      "category": "Smartphones"
+    },
+    {
+      "name": "TECNO SPARK 30C - KL5 - 8/256  GB",
+      "price": 115.0,
+      "description": "",
+      "image": "",
+      "brand": "TECNO SPARK",
+      "category": "Smartphones"
+    },
+    {
+      "name": "TECNO SPARK 30 - KL6 - 8/256  GB",
+      "price": 135.0,
+      "description": "",
+      "image": "",
+      "brand": "TECNO SPARK",
+      "category": "Smartphones"
+    },
+    {
+      "name": "TECNO SPARK 30 PRO - KL7 - 8 / 256  GB",
+      "price": 144.0,
+      "description": "",
+      "image": "",
+      "brand": "TECNO SPARK",
+      "category": "Smartphones"
+    },
+    {
+      "name": "TECNO SPARK GO 1 - 3/64  GB",
+      "price": 68.0,
+      "description": "",
+      "image": "",
+      "brand": "TECNO SPARK",
+      "category": "Smartphones"
+    },
+    {
+      "name": "TECNO SPARK GO 1  - 4/128  GB ------",
+      "price": 79.0,
+      "description": "",
+      "image": "",
+      "brand": "TECNO SPARK",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX",
+      "price": 0.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX SMART 9 - 4/128  GB",
+      "price": 75.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX  NOTE 40 - 8 / 256  GB",
+      "price": 175.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX NOTE 40 5G - 8 / 256 GB",
+      "price": 178.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX NOTE 40 PRO  5G ----- 8 / 256  GB",
+      "price": 225.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX NOTE 40 PRO PLUS 5G 12 256  GB",
+      "price": 255.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX GT 20 PRO 4G 12/256 GB ----- SIN KIT GAMING",
+      "price": 310.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX HOT 50i -  4/256 GB",
+      "price": 92.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "HOT 50i - 6 / 128  GB ...",
+      "price": 104.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "HOT 50  - 8 / 256  GB ..",
+      "price": 116.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX HOT 50  PRO 8 256  GB",
+      "price": 146.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX HOT 50 PRO PLUS 8/256  GB",
+      "price": 163.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX NOTE 50X - 5G - 8 / 256  GB",
+      "price": 205.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "INFINIX NOTE 50S - 5G - 8 / 256  GB",
+      "price": 230.0,
+      "description": "",
+      "image": "",
+      "brand": "INFINIX",
+      "category": "Smartphones"
+    },
+    {
+      "name": "ITEL A50 - 3 / 64  GB",
+      "price": 63.0,
+      "description": "",
+      "image": "",
+      "brand": "ITEL",
+      "category": "Smartphones"
+    },
+    {
+      "name": "ITEL A50 - 4 / 256 GB",
+      "price": 83.0,
+      "description": "",
+      "image": "",
+      "brand": "ITEL",
+      "category": "Smartphones"
+    },
+    {
+      "name": "ITEL P55 8 128  GB",
+      "price": 90.0,
+      "description": "",
+      "image": "",
+      "brand": "ITEL",
+      "category": "Smartphones"
+    },
+    {
+      "name": "ITEL P55 8 256  GB",
+      "price": 98.0,
+      "description": "",
+      "image": "",
+      "brand": "ITEL",
+      "category": "Smartphones"
+    },
+    {
+      "name": "ITEL A70 - 4 / 128  GB",
+      "price": 75.0,
+      "description": "",
+      "image": "",
+      "brand": "ITEL",
+      "category": "Smartphones"
+    },
+    {
+      "name": "ITEL A70 - 4 / 256  GB",
+      "price": 84.0,
+      "description": "",
+      "image": "",
+      "brand": "ITEL",
+      "category": "Smartphones"
+    },
+    {
+      "name": "ITEL A80 4G 4 128  GB",
+      "price": 80.0,
+      "description": "",
+      "image": "",
+      "brand": "ITEL",
+      "category": "Smartphones"
+    },
+    {
+      "name": "ITEL P55 PLUS ------- 4 128 GB",
+      "price": 93.0,
+      "description": "",
+      "image": "",
+      "brand": "ITEL",
+      "category": "Smartphones"
+    },
+    {
+      "name": "ITEL P55 PLUS ------- 8 256 GB",
+      "price": 110.0,
+      "description": "",
+      "image": "",
+      "brand": "ITEL",
+      "category": "Smartphones"
+    }
+  ]
+}

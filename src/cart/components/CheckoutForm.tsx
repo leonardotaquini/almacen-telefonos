@@ -231,6 +231,7 @@ export const CheckoutForm = () => {
                   <option value="">Selecciona una opción</option>
                   <option value="Carolina">Carolina</option>
                   <option value="Jessica">Jessica</option>
+                  <option value="Jessica">Johana</option>
                   <option value="Ninguna">Otro</option>
               </select>
               {errors.seller && <span className="text-red-500">Este campo es requerido</span>}
