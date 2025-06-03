@@ -156,7 +156,7 @@
       "name": "S24 ULTRA 512 GB",
       "price": 950.0,
       "description": "",
-      "image": "https://dcdn.mitiendanube.com/stores/001/555/911/products/s24-ultra-gris-fa87a0fdb450fa63ac17148689933448-1024-1024.jpg",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_906402-MLA78898729191_092024-O.webp",
       "brand": "SAMSUNG",
       "category": "Smartphones"
     },
@@ -212,7 +212,7 @@
       "name": "NOTE 13 PRO PLUS 5G. 12 512 GB",
       "price": 330.0,
       "description": "",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKbl59yrJWruYyUJ5zTbqlCw0131819PHDoQ&s",
+      "image": "https://images.fravega.com/f1000/ec3701a9ed6795540369f46283e06e4d.jpg",
       "brand": "",
       "category": "SMARTPHONE"
     },
@@ -260,7 +260,7 @@
       "name": "IPHONE 11 64 GB - NEGRO",
       "price": 350.0,
       "description": "",
-      "image": "",
+      "image": "https://tecnoflashstore.com/wp-content/uploads/2023/12/258221-800-auto.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -268,14 +268,14 @@
       "name": "IPHONE 11 128 GB - CPO -",
       "price": 400.0,
       "description": "",
-      "image": "",
+      "image": "https://tecnoflashstore.com/wp-content/uploads/2023/12/258221-800-auto.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
     {
       "name": "IPHONE 11 256 GB - CPO -",
       "price": 425.0,
-      "description": "",
+      "description": "https://tecnoflashstore.com/wp-content/uploads/2023/12/258221-800-auto.webp",
       "image": "",
       "brand": "APPLE",
       "category": "Smartphones"
@@ -284,14 +284,14 @@
       "name": "IPHONE 12 64  GB - NEGRO",
       "price": 415.0,
       "description": "",
-      "image": "",
+      "image": "https://images.fravega.com/f500/e6a38e4bb8815212cc66c9afe539f837.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
     {
       "name": "IPHONE 12 64 GB - BLANCO",
       "price": 415.0,
-      "description": "",
+      "description": "https://http2.mlstatic.com/D_NQ_NP_829746-MLA45729987647_042021-O.webp",
       "image": "",
       "brand": "APPLE",
       "category": "Smartphones"
@@ -300,7 +300,7 @@
       "name": "IPHONE 12 64 GB - LILA",
       "price": 400.0,
       "description": "",
-      "image": "",
+      "image": "https://static-catalog.tiendamia.com/marketplace_manager_service/production/product_5a97348c_mirakl_image_5_large.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -308,7 +308,7 @@
       "name": "IPHONE 12 64 GB - VERDE",
       "price": 400.0,
       "description": "",
-      "image": "",
+      "image": "https://www.megatone.net/images//Articulos/zoom2x/209/MKT1244ETC-1.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -316,7 +316,7 @@
       "name": "IPHONE 12 64 GB - ROJO",
       "price": 400.0,
       "description": "",
-      "image": "",
+      "image": "https://images-cdn.ubuy.co.in/64e4ca9b9cedd4364814ff0b-apple-iphone-12-64gb-red-unlocked-used.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -324,7 +324,7 @@
       "name": "IPHONE 12 128 GB - LILA",
       "price": 480.0,
       "description": "",
-      "image": "",
+      "image": "https://static-catalog.tiendamia.com/marketplace_manager_service/production/product_5a97348c_mirakl_image_5_large.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -332,7 +332,7 @@
       "name": "IPHONE 12 128 GB - VERDE",
       "price": 480.0,
       "description": "",
-      "image": "",
+      "image": "https://www.megatone.net/images//Articulos/zoom2x/209/MKT1244ETC-1.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -340,7 +340,7 @@
       "name": "IPHONE 13 256 GB NEGRO - BLANCO",
       "price": 690.0,
       "description": "",
-      "image": "",
+      "image": "https://images.fravega.com/f500/d1b0d862832738d294eb91166eb6fbe2.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -348,7 +348,7 @@
       "name": "IPHONE 14 256 GB - NEGRO",
       "price": 710.0,
       "description": "",
-      "image": "",
+      "image": "https://www.tiendaamiga.com.bo/media/catalog/product/cache/deb88dadd509903c96aaa309d3e790dc/i/p/iphone_14_negro_apple_1.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -356,14 +356,14 @@
       "name": "IPHONE 14 256 GB - BLANCO",
       "price": 710.0,
       "description": "",
-      "image": "",
+      "image": "https://cdn.idealo.com/folder/Product/202093/7/202093770/s11_produktbild_gross_3/apple-iphone-14-256-gb-blanco.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
     {
       "name": "IPHONE 15 256 GB  -",
       "price": 840.0,
-      "description": "",
+      "description": "https://http2.mlstatic.com/D_Q_NP_779617-MLA71782867320_092023-O.webp",
       "image": "",
       "brand": "APPLE",
       "category": "Smartphones"
@@ -372,7 +372,7 @@
       "name": "IPHONE 16E 128 GB - BLANCO",
       "price": 590.0,
       "description": "",
-      "image": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_810546-MLA82586569951_022025-O.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -380,7 +380,7 @@
       "name": "IPHONE 16E 128 GB - NEGRO",
       "price": 590.0,
       "description": "",
-      "image": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_850610-MLA82302319816_022025-O.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -388,7 +388,7 @@
       "name": "IPHONE 16E 256 GB.",
       "price": 670.0,
       "description": "",
-      "image": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_850610-MLA82302319816_022025-O.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -396,7 +396,7 @@
       "name": "IPHONE 16 128  GB  - ROSADO",
       "price": 795.0,
       "description": "",
-      "image": "",
+      "image": "https://ipoint.com.ar/27363-large_default/iphone-16-plus-128gb-pink.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -404,7 +404,7 @@
       "name": "IPHONE 16 128  GB - VERDE",
       "price": 795.0,
       "description": "",
-      "image": "",
+      "image": "https://www.elizondoenlinea.com/images/thumbs/20428225_0_600.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -412,7 +412,7 @@
       "name": "IPHONE 16 128  GB - NEGRO",
       "price": 795.0,
       "description": "",
-      "image": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_677076-MLU79116568655_092024-O.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -420,7 +420,7 @@
       "name": "IPHONE 16 128  GB - BLANCO",
       "price": 795.0,
       "description": "",
-      "image": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_943288-MLU78891932006_092024-O.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -428,7 +428,7 @@
       "name": "IPHONE 16 - 128  GB - AZUL",
       "price": 795.0,
       "description": "",
-      "image": "",
+      "image": "https://ipoint.com.ar/27351-medium_default/iphone-16-128gb-ultramarine.jpg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -436,7 +436,7 @@
       "name": "IPHONE 16 - 256 GB -----",
       "price": 908.0,
       "description": "",
-      "image": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_677076-MLU79116568655_092024-O.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -444,7 +444,7 @@
       "name": "IPHONE 16 PRO 128  GB - DORADO \"DESERT TITANIUM",
       "price": 980.0,
       "description": "",
-      "image": "",
+      "image": "https://www.cordobadigital.net/wp-content/uploads/2024/09/iphone-16-pro-finish-select-202409-6-3inch-deserttitanium.jpeg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -452,7 +452,7 @@
       "name": "IPHONE 16 PRO 128  GB - BLANCO",
       "price": 980.0,
       "description": "",
-      "image": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_882620-MLU79129262427_092024-O.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -460,7 +460,7 @@
       "name": "IPHONE 16 PRO 128  GB - NATURAL",
       "price": 980.0,
       "description": "",
-      "image": "",
+      "image": "https://www.cordobadigital.net/wp-content/uploads/2024/10/iPhone_16_Pro_Natural_Titanium_TH_1_87cfb9c7-4324-4649-8139-d5bf2e57cbd2.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -468,7 +468,7 @@
       "name": "IPHONE 16 PRO 128  GB - NEGRO",
       "price": 980.0,
       "description": "",
-      "image": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_836017-MLU78891585728_092024-O.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -476,7 +476,7 @@
       "name": "IPHONE 16 PRO 256  GB- DORADO \"DESERT TITANIUM",
       "price": 1080.0,
       "description": "",
-      "image": "",
+      "image": "https://www.cordobadigital.net/wp-content/uploads/2024/09/iphone-16-pro-finish-select-202409-6-3inch-deserttitanium.jpeg",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -484,7 +484,7 @@
       "name": "IPHONE 16 PRO 256  GB- BLANCO",
       "price": 1080.0,
       "description": "",
-      "image": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_882620-MLU79129262427_092024-O.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -492,7 +492,7 @@
       "name": "IPHONE 16 PRO 256  GB- NATURAL",
       "price": 1080.0,
       "description": "",
-      "image": "",
+      "image": "https://www.cordobadigital.net/wp-content/uploads/2024/10/iPhone_16_Pro_Natural_Titanium_TH_1_87cfb9c7-4324-4649-8139-d5bf2e57cbd2.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
@@ -500,7 +500,7 @@
       "name": "IPHONE 16 PRO 256  GB- NEGRO",
       "price": 1080.0,
       "description": "",
-      "image": "",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_836017-MLU78891585728_092024-O.webp",
       "brand": "APPLE",
       "category": "Smartphones"
     },
